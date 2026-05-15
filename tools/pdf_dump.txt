@@ -1,0 +1,9825 @@
+
+
+========== PAGE 1 ==========
+Q.No.
+01
+A
+B
+C
+A
+02
+B
+B
+C
+C
+03
+B
+C
+B
+C
+04
+B
+D
+D
+D
+05
+A
+B
+B
+D
+06
+D
+D
+C
+A
+07
+B
+B
+A
+B
+08
+A
+C
+C
+C
+09
+A
+B
+A
+D
+10
+C
+B
+C
+D
+11
+A
+C
+B
+D
+12
+D
+B
+C
+B
+13
+C
+A
+B
+B
+14
+C
+B
+C
+C
+15
+B
+A
+A
+C
+16
+A
+B
+B
+B
+17
+B
+A
+C
+D
+18
+C
+D
+A
+B
+19
+C
+B
+D
+C
+20
+C
+A
+A
+B
+21
+A
+A
+C
+B
+22
+C
+C
+C
+B
+23
+B
+B
+D
+B
+24
+A
+D
+A
+A
+25
+B
+C
+B
+B
+26
+C
+C
+C
+A
+27
+A
+C
+D
+B
+28
+B
+A
+D
+A
+29
+C
+B
+C
+D
+30
+C
+A
+D
+C
+31
+D
+C
+B
+A
+32
+A
+C
+B
+A
+33
+C
+B
+B
+C
+34
+B
+C
+C
+B
+35
+D
+C
+B
+D
+36
+A
+A
+D
+C
+37
+D
+B
+C
+B
+38
+C
+C
+B
+C
+39
+D
+A
+B
+A
+40
+B
+B
+B
+C
+41
+C
+B
+B
+A
+42
+D
+C
+A
+C
+43
+B
+D
+A
+C
+44
+D
+A
+B
+B
+45
+B
+A
+B
+B
+46
+C
+B
+A
+C
+47
+B
+D
+D
+A
+48
+B
+D
+C
+B
+49
+C
+D
+A
+C
+50
+B
+C
+A
+A
+51
+C
+B
+D
+A
+52
+C
+A
+B
+D
+53
+B
+A
+A
+A
+54
+D
+B
+D
+B
+55
+A
+C
+D
+B
+56
+D
+C
+D
+A
+57
+D
+D
+A
+A
+58
+D
+B
+D
+C
+59
+A
+A
+A
+C
+60
+A
+D
+A
+B
+61
+D
+D
+B
+D
+62
+A
+D
+B
+A
+63
+A
+D
+A
+D
+64
+B
+A
+C
+D
+65
+B
+A
+C
+D
+66
+B,D
+A,C
+B,C
+D
+67
+A,B
+C,D
+A,D
+A,B,C
+68
+A,D
+A,B
+A,C
+C,D
+69
+B,C
+B,D
+A,C
+A,C
+70
+A,C
+B,C
+A,B,C
+B,D
+71
+A,C
+A,D
+D
+A,B
+72
+D
+A,C
+A,C
+A,D
+73
+A,B,C
+A,C
+C,D
+B,C
+74
+C,D
+A,B,C
+A,B
+A,C
+75
+A,C
+D
+B,D
+A,C
+WBJEE  - 2024
+Answer Keys by
+Aakash Institute, Kolkata Centre
+
+[Images on page: 0]
+
+
+========== PAGE 2 ==========
+CATEGORY - 1 (Q:1 to Q50)
+(Carry 1 mark each. Only one option is correct. Negative marks: – ¼)
+1.
+OAB is an euilateral triangle inscribed in the parabola y2 = 4ax, a > 0 with O as the vertex, then the length of the side
+of OAB is
+(A)
+8a 3  unit
+(B)
+8a unit
+(C)
+4a 3  unit
+(D)
+4a unit
+Ans : (A)
+Hint : Slope of OA : 
+OA
+1
+M
+tan30º
+3
+
+
+Equation of OA :  
+1
+y
+3
+
+x from parabola                     
+A
+B
+30º
+60º
+O
+and line OA , 
+2
+x
+4ax
+3 
+ x = 12a  y = 4 3a  
+AB
+2
+4 3a
+8a 3
+
+
+
+
+ unit
+2.
+The plane 2x – y + 3z + 5 = 0 is rotated through 90º about its line of intersection with the plane x + y + z = 1. The
+equation of the plane in new position is
+(A)
+3x + 9y + z + 17 = 0 (B)
+3x + 9y + z = 17
+(C)
+3x – 9y – z = 17
+(D)
+3x + 9y – z = 17
+Ans : (B)
+Hint : Equation of a plane passing through the line of intersection of the given planes is
+2x – y + 3z + 5 + (x + y + z – 1) = 0
+ (2 + ) x – (1 – )y + (3 + )z + 5 –= 0 this will be perpendicular to the plane 2x – y + 3z + 5 = 0
+(2
+)2
+(1
+) 1
+3(3
+)
+0
+
+
+
+
+
+ 
+7
+2
+
+
+ Equation of plane 3x + 9y + z = 17
+Code -
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(1)
+ANSWERS & HINTS
+for
+WBJEE - 2024
+SUB : MATHEMATICS
+
+[Images on page: 0]
+
+
+========== PAGE 3 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(2)
+3.
+If the relation between the direction ratios of two lines in 
+3
+ are given by  l + m + n = 0, 2 lm + 2 mn – ln = 0 then the
+angle between the lines is (l, m, n have their usual meaning)
+(A)
+6
+
+(B)
+2
+3
+
+(C)
+2
+
+(D)
+4
+
+Ans : (B)
+Hint : Quadratic in 
+2
+m
+m
+m
+m
+1
+: 2
+1
+0
+1,
+n
+n
+n
+n
+2
+
+
+
+
+
+
+
+
+
+
+
+ n = m or n = – 2m & l = –m – n,   l : m : n  – 2 : 1 : 1  or  1 : 1 – 2
+ Angle = 
+1
+2 1
+1
+1
+1
+1
+1
+2
+cos
+.
+cos
+2
+3
+6
+6
+6
+6
+6
+6
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4.
+If Un (n = 1, 2) denote the nth derivative (n = 1, 2) of U(x) = 
+2
+Lx
+M
+x
+2Bx
+C
+
+
+
+ (L, M, B, C are constants), then PUI2 + QU1
++ RU = 0, holds for
+(A)
+P = x2 - 2B, Q = 2x, R = 3x
+(B)
+P = x2 – 2Bx + C, Q = 4((x – B), R = 2
+(C)
+P = 2x, Q = 2B, R = 2
+(D)
+P = x2, Q = x,  R = 3
+Ans : (B)
+Hint : U(x) = 
+2
+Lx
+m
+x
+2Bx
+c
+
+
+
+,  U(x)(x2 – 2Bx + c) = Lx + m
+U(x) (2x – 2B) + (x2 – 2Bx + c) U1(x) = L
+U(x) × 2 (2x – 2B)xU1(x) + (2x – 2B)U1(x) + (x2 – 2Bx + c) U2(x) = 0
+ U2(x2 – 2B + c) + U1 (4x – 4B) + 2U = 0
+P = x2 – 2Bx + c ,   = 4 (x – B) , R = 2
+5.
+For every real number  
+x
+x
+1, let f(x)
+x
+1
+
+
+
+. Write f1(x) = f(x) & for 
+n
+n–1
+n
+2, f (x)
+f(f
+(x)).
+
+
+ Then f1(–2). f2(–2) ........
+must be
+(A)
+n
+2
+1.3.5......(2n
+1)
+
+(B)
+1
+(C)
+
+
+2n
+n
+1
+2
+(D)
+
+
+2n
+n
+Ans : (A)
+Hint :  
+x
+f(x)
+x
+1
+
+
+,   2
+x
+x
+f (x)
+x
+1
+2x
+1
+x
+1
+x
+1
+
+
+
+
+
+
+3
+x
+f (x)
+3x
+1
+
+
+,   f1(–2).f2(–2)  .......... fn(–2)
+2
+2
+2
+2
+..............
+1
+3
+5
+(2n
+1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ = 
+n
+2
+1.3.5.... (2n
+1)
+
+
+[Images on page: 0]
+
+
+========== PAGE 4 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(3)
+6.
+If are the roots of the equation ax2 + bx + c = 0 then 
+2
+2
+x
+1
+cos(ax
+bx
+c)
+lim
+(x
+)
+
+
+
+
+
+ is
+(A)
+ ( – )2
+(B)
+ 1
+2 ( – )2
+(C)
+2
+2
+a (
+)
+4 
+(D)
+2
+2
+a (
+)
+2 
+Ans : (D)
+Hint : ax2 + bx + c = a (x – ) (x – )
+2
+2
+x
+1
+cos(ax
+bx
+c)
+lim
+(x
+)
+
+
+
+
+
+ = 
+2
+x
+1 cos(a(x
+)(x
+))
+lim
+(x
+)
+
+
+
+
+
+= 
+2
+2
+2
+2
+2
+2
+2
+2
+x
+x
+a(x
+)(x
+)
+a(x
+)(x
+2sin
+2sin
+a (x
+)
+2
+2
+lim
+lim
+4
+(x
+)
+a (x
+) (x
+)
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+2
+2
+a (
+)
+a (
+)
+2 1x
+4
+2
+
+
+
+
+
+7.
+The equation 2x + 5x = 3x + 4x  has
+(A)
+no real solution
+(B)
+only one non-zero real soltuion
+(C)
+infinitely many solutions
+(D)
+only three non-negative real soltuions
+Ans : (B)*
+Hint :
+ 
+0
+7
+(0,2)
+(i)
+(ii)
+1
+(i)  y = 2  + 5
+x
+x
+(ii) y = 3  + 4
+x
+x
+option (B)
+*
+ x = 0 and 1 are the roots
+*
+one non zero real solution
+
+
+[Images on page: 0]
+
+
+========== PAGE 5 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(4)
+8.
+Consider the function f(x) = (x – 2) loge.x. Then the equation x logex = 2 – x
+(A)
+has at least one root in (1, 2)
+(B)
+has no root in (1, 2)
+(C)
+is not at all solvable
+(D)
+has infinitely many roots in (–2, 1)
+Ans : (A)
+Hint : Let g(x) = xlogex – 2 + x
+g(x) = 1 + logex + 1 = 2 + logex
+g(1).g(2) = – 1 ×(2loge2) = – ve
+9.
+ If 
+2
+e
+2
+log (x
+1
+x )dx
+f(g(x))
+c then
+1
+x
+
+
+
+
+
+
+(A)
+2
+2
+e
+x
+f(x)
+,g(x)
+log (x
+1
+x )
+2
+
+
+
+
+(B)
+ 
+2
+2
+e
+x
+f(x)
+log (x
+1
+x ), g(x)
+2
+
+
+
+
+(C)
+2
+2
+e
+f(x)
+x , g(x)
+log (x
+1
+x )
+
+
+
+
+(D)
+ 
+2
+2
+e
+f(x)
+log (x
+1
+x ),g(x)
+x
+
+
+
+
+Ans : (A)
+Hint : Let log 
+2
+(x
+1
+x )
+t
+
+
+
+  
+2
+2
+2
+1
+x
+x dx
+dt
+1
+x
+x
+1
+x
+
+
+
+
+
+
+2
+dx
+dt
+1
+x
+
+
+
+ 
+2
+2
+log(x
+1
+x
+I
+dx
+t.dt
+1
+x
+
+
+
+
+
+
+
+2
+2
+2
+log(x
+x
+1
+t
+I
+c
+c
+2
+2
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+e
+x
+f(x)
+, g(x)
+log (x
+1
+x )
+2
+
+
+
+
+
+10.
+ If 
+f(a)
+f(a)
+x
+1
+2
+x
+f( a)
+f( a)
+e
+f(x)
+,I
+x g(x(1
+x)) dx and I
+g(x(1
+x))dx,
+1
+e
+
+
+
+
+
+
+
+
+
+
+ then the value of 
+2
+1
+I
+I  is
+(A)
+–1
+(B)
+–3
+(C)
+2
+(D)
+1
+Ans : (C)
+Hint : f(a) + f(–a) = 
+a
+a
+a
+a
+e
+e
+1
+1
+e
+1
+e
+
+
+
+
+
+
+Let f(–a) = t 
+f(a)
+1
+t
+
+
+Now, 
+1 t
+1
+t
+I
+xg(x(1
+x))dx
+
+
+
+
+1 t
+t
+(1
+x)g((1
+x)(1 (1
+x))dx
+
+
+
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 6 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(5)
+1 t
+t
+(1
+x)g(x(1
+x))dx
+
+
+
+
+
+1 t
+2
+1
+2
+t
+1
+I
+2I
+g(x(1
+x))dx
+I
+2
+I
+
+
+
+
+
+
+
+
+11.
+Let f :
+
+
+ be a differentiable function and f(1) = 4. Then the value of 
+f(x)
+x
+1
+4
+2t
+lim
+dt,
+x
+1
+
+
+
+ if f(1) = 2 is
+(A)
+16
+(B)
+8
+(C)
+4
+(D)
+2
+Ans : (A)
+Hint : 
+f(x)
+x
+1
+4
+2t
+Lim
+dt
+x
+1
+
+
+
+,  
+f(x)
+2
+x
+1
+4
+t
+Lim
+x
+1
+
+
+
+
+
+
+
+
+
+
+
+= 
+2
+2
+x
+1
+[f(x)]
+4
+0
+Lim
+form [
+f(1)
+4]
+x
+1
+0
+
+
+
+
+
+
+
+
+
+
+
+
+x
+1
+2f(x)f (x)
+Lim
+1
+
+
+
+ = 2f(1) f(1) = 2(4) (2) = 16
+12.
+If xy + y – ex = 0, y(a) = b, then x
+1
+lim
+ y(x) is
+(A)
+e  + 2ab – ea
+(B)
+e2 + ab – e–a
+(C)
+e – ab + ea
+(D)
+ e + ab – ea, 
+dy
+y
+dx
+
+
+
+
+
+
+
+Ans : (D)
+Hint :  xy + y – ex = 0
+
+x
+dy
+x
+y
+e
+dx 
+
+
+x dy + y dx = ex dx
+
+
+
+x
+d xy
+e dx
+
+
+
+
+xy = ex + c
+y (a) = b   c = ab – ea
+
+y(x) = 
+x
+a
+e
+ab
+e
+x
+
+
+
+x
+1
+lim
+y(x) = e+ ab–ea
+13.
+AII values of a for which the inequality 
+a
+1
+1
+3
+1
+x
+1
+2
+a
+x
+
+
+
+
+
+
+
+
+ dx<4 is satisfied, lie in the interval
+(A)
+ (1, 2)
+(B)
+(0, 3)
+(C)
+(0, 4)
+(D)
+(1, 4)
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 7 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(6)
+Hint :  
+a
+1
+1
+3
+1
+x
+1
+dx
+4
+2
+a
+x
+
+
+
+
+
+
+
+
+
+
+3
+1
+2
+2
+a
+12
+1
+1
+3 x
+x
+.
+.
+x
+4
+3
+2
+a
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+3
+1
+2
+2
+1
+a
+a
+2a
+1 1 2
+4
+a
+
+
+
+
+
+
+
+3
+1
+2
+2
+1
+2
+1 . a
+a
+2a
+4
+a
+
+
+
+ 
+12
+a
+a
+2
+4
+
+
+
+
+
+
+1
+1
+2
+2
+2
+a
+a
+6
+0
+
+
+
+ 
+
+
+1
+1
+2
+2
+a
+3
+a
+2
+0
+
+
+
+but, 
+12
+a
+3
+0
+
+
+   
+12
+a
+2
+0
+
+
+   a < 4 and a > 0   a  (0, 4)
+14.
+ For any integer n, 
+2
+cos x.
+0
+e
+
+
+ cos3 (2n+1) x dx has the value
+(A)
+
+(B)
+1
+(C)
+0
+(D)
+3
+2
+
+Ans : (C)
+Hint : 
+
+
+2
+cos x
+3
+0
+I
+e
+.cos
+2n
+1 x dx
+
+
+
+
+    
+
+
+
+
+
+
+
+2
+3
+cos
+x
+0
+e
+. cos 2n
+1
+x
+dx
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+3
+cos x
+0
+e
+. cos
+2n
+1
+2n
+1 x
+dx
+
+
+
+
+
+   
+
+
+2
+cos x
+3
+0
+e
+.cos
+2n
+1 x dx
+
+
+
+
+=
+– I
+ 2I = 0   I = 0
+ 15.   Let f be a differential function with xlim
+f(x) = 0. If y + yf (x) – f(x) f (x) = 0, xlim
+ y(x) = 0 then
+(A)
+y + 1 = ef(x) + f(x)
+(B)
+y + 1 = e–f(x) + f(x)
+(C)
+y + 2 = e–f(x) + f(x)
+(D)
+y – 1 = e–f(x) + f(x)
+Ans : (B)
+Hint :  
+
+
+y
+yf
+x
+f x f
+x
+0
+
+
+
+
+
+
+    
+
+
+dy
+yf
+x
+f
+x f
+x
+dx
+
+
+
+
+   Linear DE  
+dy
+py
+Qform
+dx 
+
+
+If = 
+
+
+f x
+e
+f
+x dx
+e
+
+
+
+   
+
+
+f x
+f x
+ye
+e
+.f x .f
+x dx
+
+
+  = 
+
+
+
+
+f x
+e
+.f x .d f x
+
+=
+
+
+
+f x
+f x
+f x .e
+e
+c
+
+
+   
+
+
+f x
+y
+f x
+1 ce
+
+
+   
+
+
+f x
+y
+1
+f x
+c.e
+
+
+
+=
+
+
+
+
+
+f x
+x
+x
+lim y x
+lim
+f x
+1 c.e
+
+
+
+
+ = 0    0 – 1 + c. e0 = 0     c = 1
+from (1), y  + 1 = f(x) +e–f(x)
+
+[Images on page: 0]
+
+
+========== PAGE 8 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(7)
+ 16.  Let y = f(x) be any curve on the X–Y plane & P be a point on the curve. Let C be a fixed point not on the curve. The
+length PC is either a maximum or a minimum, then
+(A)
+PC is perpendicular to the tangent at P
+(B)
+PC is parallel to the tangent at P
+(C)
+PC meets the tangent at an angle of 45°
+(D)
+PC meets the tangent at an angle of 60°
+Ans : (A)
+17.
+ The are bounded by the curves x = 4 – y2 and the Y-axis is
+(A)
+16 sq. unit
+(B)
+32
+3  sq. unit
+(C)
+16
+3  sq. unit
+(D)
+32 sq. unit
+Ans : (B)
+Hint :  x = 4 – y2   y2 = – x + 4
+y
+y
+(0, 2)
+(0, –2)
+0
+(4, 0)
+x
+x
+     x = 0    y2 = 4    y = ± 2
+Area bounded by the curve x = 4 – y2 and y – axis is,
+=
+2
+0
+2 x dy
+
+ = 
+
+
+2
+2
+0
+2
+4
+y
+dy
+
+
+ = 
+2
+3
+0
+y
+2 4y
+3
+
+
+
+
+
+
+
+
+ = 
+8
+32
+2 8
+sq. unit
+3
+3
+
+
+
+
+
+
+
+
+18.
+  F(x) = cos x – 1 + 
+2
+x
+2!  , x . Then f(x) is
+(A)
+decreasing function
+(B)
+increasing function
+(C)
+neither increasing nor decreasing
+(D)
+constant  x > 0
+Ans : (C)
+Hint : 
+2
+x
+f x
+cosx
+1
+,x
+R
+2!
+
+
+
+    
+2x
+f
+x
+sinx
+0
+2!
+
+
+
+
+   = x – sin x   
+y
+y = x
+0
+x
+y = sinx
+f(x) > 0    x > 0     x > sin x
+f(x) < 0    x < 0   x < sin x
+
+f(x) is neither increasing nor decreasing .
+19.
+Let f : 
+
+
+ be given by f(x) = | x2 – 1|, then
+(A)
+f has a local minima at x = ±1 but no local maxima
+(B)
+f has a local maxima at x = 0, but no local minima
+(C)
+f has a local minima at x = ±1 and a  local maxima at x = 0
+(D)
+f has niether any local maxima nor any local minima
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 9 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(8)
+Hint :  
+x
+x
+y
+y
+f(x)
+1
+–1
+0
+f(x) = |x  – 1|
+2
+By figure,
+f has a local minima at x = ± 1 and a local maxima at x = 0
+20.
+ If a particle moves in a straight line according to the law x = a sin 
+
+t
+b
+
+, then the particle will come to rest at two
+points  whose distance is [symbols have their usual meaning]
+(A)
+a
+(B)
+a
+2
+(C)
+2a
+(D)
+4a
+Ans : (C)
+Hint :  
+
+
+dx
+a cos
+t
+b .
+0
+dt 
+
+
+at rest,
+dx
+0
+dt
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+cos
+t
+b
+0
+
+
+ 
+t
+b
+,
+2
+2
+
+
+
+
+x1 = a sin 2
+  and x2 = a sin 
+2
+
+
+
+
+
+
+
+    = a                      = –a
+
+Distance between the points = |x2 – x1|   = 2a
+21.
+A unit vector in XY-plane making an angle 45° with i
+j
+
+
+
+ and an angle 60° with 3 i
+4 j
+
+
+
+ is
+(A)
+13
+1
+i
+j
+14
+14
+
+
+
+(B)
+1
+13
+i
+j
+14
+14
+
+
+
+(C)
+13
+1
+i
+j
+14
+14
+
+
+
+(D)
+1
+13
+i
+j
+14
+14
+
+
+
+Ans : (A)
+Hint :  Let the vector be x i
+y j
+r
+
+
+
+
+
+  a
+i
+j
+
+
+
+  and b
+3 i
+4 j
+
+
+
+
+
+1
+r . a
+r
+a cos45
+1. 2.
+1
+2
+
+
+
+
+     x+y = 1 ------ (1)
+r . b
+r
+b cos60
+
+
+
+   3x – 4y = 1.5.
+1
+2    
+
+
+2 3x
+4y
+1
+5
+
+   6x – 8y = 5  ----(2)
+Solving (1) and (2),  14x = 13   x = 
+13
+14      y = 
+1
+14
+
+Unit vector = 13
+1
+i
+j
+14
+14
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 10 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(9)
+22.
+If for the series a1, a2, a3, .... etc, ar – ar+ 1 bears a constant ratio with ar.ar+1; then a1,a2,a3 .... are in
+(A)
+A.P.
+(B)
+G.P.
+(C)
+H.P.
+(D)
+Any other series
+Ans : (C)
+Hint :
+
+
+r
+r 1
+r
+r 1
+a
+a
+K constant
+a a
+
+
+
+
+   
+r 1
+r
+1
+1
+K
+a
+a
+
+
+
+    
+1
+2
+3
+1
+1
+1
+,
+,
+,
+a
+a
+a
+...... is an A.P
+A.P
+ a1, a2, a3, .... is a H.P
+23.
+Given an A.P. and a G.P. with positive terms, with the first and second terms of the progressions being equal. If an and
+bn be the nth term of A.P. and G.P. respectively then
+(A)
+an > bn for all n > 2
+(B)
+an < bn for all n > 2
+(C)
+an = bn for some n > 2 (D)
+an = bn for some odd n
+Ans : (B)
+Hint :  a1, a2, a3, ......., an  AP
+a1, a2, b3, ......., bn  GP
+an = a1 + (n – 1) (a2 – a1)
+n 1
+n 1
+1 n 1
+n 1
+2 n
+2
+n
+1
+2
+1
+2
+1
+1
+a
+b
+a
+a
+.a
+a
+.a
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+for n = 3, a3 = a1 + 2(a2 – a1)   a3 = 2a2 – a1
+b3 = a2
+2. a1
+–1 = 
+2
+2
+1
+a
+a
+a3 – b3 = 2a2 – a1 – 
+2
+2
+1
+a
+a
+
+
+2
+2
+2
+2
+1
+2
+1
+2
+2
+1
+1
+2
+1
+1
+2a a
+a
+a
+2a a
+a
+a
+0
+a
+a
+
+
+
+
+
+
+
+    
+2
+2
+1
+2
+1
+2
+a
+a
+2a a
+
+
+
+
+
+
+
+a3 < b3  an < bn for all n > 2
+24.
+ If (x2 logx27) . log9x = x + 4 then the value of x is
+(A)
+2
+(B)
+4
+3
+
+(C)
+–2
+(D)
+4
+3
+Ans : (A)
+Hint :  (x2 log x27).log9x = x + 4
+ x2 . log927 = x + 4  x2 . 
+2
+3
+3
+log
+3  = x + 4  
+2
+3 x
+x
+4
+2
+
+
+3x2 – 2x – 8 = 0 3x2 – 6x + 4x – 8 = 0 (3x + 4) (x – 2) = 0
+4
+x
+3
+
+  x = 2
+ 25. If z1 and z2 be two roots of the equation z2 + az + b = 0, a2 < 4b, then the origin, z1 and z2 form an equilateral triangle
+if
+(A)
+a2 = 3b2
+(B)
+a2 = 3b
+(C)
+b2 = 3a
+(D)
+b2 = 3a2
+Ans : (B)
+Hint :  Here, z1 + z2 = – a and z1z2 = b
+
+[Images on page: 0]
+
+
+========== PAGE 11 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(10)
+z2 = z1
+i /3
+e  = 
+1z
+cos
+isin
+3
+3
+
+
+
+
+
+
+
+
+= 
+1
+1
+3
+z
+i.
+2
+2
+
+
+
+
+
+
+
+
+      
+Im
+Re
+z2
+z1
+O
+ 2z2 – z1 = 
+3 .iz1 (2z2 – z1)2 = –3z1
+2  4z2
+2 + 4z1
+2 = 4z1z2  z1
+2 + z2
+2 = z1z2
+(z1 + z2)2 – 2z1z2 = z1z2  a2 – 2b = b  a2 = 3b
+26.
+If cos  + i sin , , is the root of the equation
+n
+n 1
+0
+1
+n 1
+n
+a x
+a .x
+....
+a
+x
+a
+0
+
+
+
+
+
+
+
+, 
+0
+1
+n
+0
+a ,a ,......a
+,a
+0,
+
+
+
+then the value of 
+1
+2
+n
+a sin
+a sin2
+....
+a sinn
+
+
+
+is
+(A)
+2n
+(B)
+n
+(C)
+0
+(D)
+n+1
+Ans : (C)
+Hint : 
+n
+n 1
+0
+1
+n 1
+n
+a x
+a .x
+....
+a
+x
+a
+0
+
+
+
+
+
+
+
+divided by xn
+a0 + a1
+1
+x  + ......+ 
+n 1
+n 1
+1
+a
+x
+
+ + 
+n
+n
+1
+a x = 0
+put x = cos  + i sin  and equating imaginary part
+a1 sin  + a2 sin 2 + ....+ an sin 2 = 0
+27.
+If a, b, c are distinct odd natural numbers, then the number of rational roots of the equation ax2 + bx + c = 0
+(A)
+must be 0
+(B)
+must be 1
+(C)
+must be 2
+(D)
+cannot be determined from the given data
+Ans : (A)
+Hint :  D = b2 – 4ac  0
+for rational roots D is perfect square
+D = b  – 4ac
+2
+odd – even = odd
+ac = (n – k) (n + k + 1)
+     = even integer
+but given ac = odd integer
+Let D = (2k + 1)
+2
+b  – 4ac = (2k + 1)
+2
+2
+4ac = (2n + 1)  – (2k + 1)
+2
+2
+       = 4 (n – k) (n + k+1)
+(a = 2n + 1)
+28.
+If P(x) = ax2 + bx + c and Q(x) = –ax2 + dx + c where ac 0, then P(x) . Q(x) = 0 has (a, b, c, d are real)
+(A)
+2 real roots
+(B)
+at least two real roots
+(C)
+4 real roots
+(D)
+no real root
+Ans : (B)
+Hint :  D1 = b2 – 4ac
+D2 = d2 + 4ac
+D1 + D2 = b2 + d2 > 0
+D1 + D2 > 0
+At least one of D1 or D2 is +ve so at least two real roots
+
+[Images on page: 0]
+
+
+========== PAGE 12 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(11)
+29.
+Let N be the number of quadratic equations with coefficients from {0, 1, 2, ....., 9) such that 0 is a solution of each
+equation. Then the value of N is
+(A)
+29
+(B)
+39
+(C)
+90
+(D)
+81
+Ans : (C)
+Hint :  ax2 + bx + c = 0
+one root is zeroc = 0
+a0, a = 1, 2, 3, ... 9
+b = 0, ......9
+Number of value of N = 9 ×10 = 90
+30.
+The coefficient of a10b7c3 in the expansion of (bc + ca + ab)10 is
+(A)
+140
+(B)
+150
+(C)
+120
+(D)
+160
+Ans : (C)
+Hint : (bc + ca + ab)10 = 
+3
+1
+2
+n
+n
+n
+1
+2
+3
+10
+(bc) (ca) (ab)
+n n n
+
+=
+1
+3
+2
+3
+1
+2
+n
+n
+n
+n
+n
+n
+1
+2
+3
+10
+b
+c
+a
+n n n
+
+
+
+
+n1 + n3 = 7
+n1+n2 + n3 = 10
+n1 + n2 = 3
+n1 = 0, n2 = 3
+n2 + n3 = 10
+           n3 = 7
+Coefficient of a10b7c3 = 
+10
+10
+9
+8
+10
+3
+4
+120
+3 7
+3
+2
+
+
+
+
+
+
+
+
+31.
+The numbers 1, 2, 3, ...., m are arranged in random order. The number of ways this can be done, so that the numbers
+1, 2, ...., r (r < m) appears as neighbours is
+(A)
+(m – r)!
+(B)
+(m – r + 1)!
+(C)
+(m – r)!r!
+(D)
+(m – r + 1)! r!
+Ans : (D)
+32.
+If 
+cos
+sin
+A
+sin
+cos
+
+
+
+
+
+
+
+
+
+
+
+ and 
+2
+7
+
+
+, then A100 = A × A × .....(100 times) is equal to
+(A)
+cos2
+sin2
+sin2
+cos2
+
+
+
+
+
+
+
+
+
+
+
+(B)
+cos
+sin
+sin
+cos
+
+
+
+
+
+
+
+
+
+
+
+(C)
+1
+0
+0
+1
+
+
+
+
+
+
+(D)
+0
+1
+1
+0
+
+
+
+
+
+
+
+Ans : (A)
+Hint : 
+100
+cos100
+cos100
+A
+sin100
+cos100
+
+
+
+
+
+
+
+
+
+
+
+
+As 
+2
+7
+
+
+100
+200
+200
+cos
+sin
+7
+7
+A
+200
+200
+sin
+cos
+7
+7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= A2
+
+[Images on page: 0]
+
+
+========== PAGE 13 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(12)
+33.
+If (1 + x + x2 + x3)5 = 
+15
+k
+k
+k 0
+a x
+
+ then 
+
+
+7
+k
+2k
+k 0
+1 .a
+
+
+
+ is equal to
+(A)
+25
+(B)
+45
+(C)
+0
+(D)
+44
+Ans : (C)
+Hint :  
+1
+K
+2k
+k 0
+( 1) a
+
+
+
+
+0
+2
+4
+6
+8
+14
+a
+a
+a
+a
+a .....a
+
+
+
+
+(1+x+x2+x3)5 = a0 + a1x + ..... + a15x15
+put x = i
+(1+i + i2+i3)5 = a0 + a1i + a2i2 + ....+ a15i15
+equating real part
+a0 – a2 + a4 – a6 + a8 ......a14 = 0
+34.
+Let 
+3
+cosx
+x
+1
+f x
+2sinx
+x
+2x ,
+tanx
+x
+1
+
+ then 
+
+2
+x
+0
+f x
+lim x
+
+
+(A)
+2
+(B)
+–2
+(C)
+1
+(D)
+–1
+Ans : (B)
+Hint :  
+
+
+
+
+3
+2
+2
+3
+f x
+x
+2x
+cos x
+tanx 2x
+x
+
+
+
+
+   
+
+
+
+
+
+2
+x
+0
+x
+0
+f x
+lim
+lim x
+2 cosx
+tanx 2
+x
+x
+
+
+
+
+
+
+                = –2
+35.
+If 
+
+
+
+
+k
+k 2
+k 3
+k
+k 2
+k 3
+k
+k 2
+k 3
+x
+x
+x
+1
+1
+1
+y
+y
+y
+x
+y
+y
+z
+z
+x
+,
+x
+y
+z
+z
+z
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ then
+(A)
+k = –3
+(B)
+k = 3
+(C)
+k = 1
+(D)
+k = –1
+Ans : (D)
+Hint :  
+
+2
+3
+k
+2
+3
+2
+3
+1
+x
+x
+xyz
+1
+y
+y
+1
+z
+z
+  = 
+
+
+
+
+
+
+k
+xyz
+x
+y
+z
+x
+y
+z
+xy
+yz
+zx
+
+
+
+
+
+
+  = 
+
+
+
+
+
+
+k 1
+1
+1
+1
+xyz
+x
+y
+z
+x
+y
+z
+x
+y
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+ k + 1 = 0
+k
+1
+
+
+[Images on page: 0]
+
+
+========== PAGE 14 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(13)
+36.
+If 
+2
+1
+3
+2
+1
+0
+A
+,
+3
+2
+5
+3
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ then A =
+(A)
+1
+1
+1 0
+
+
+
+
+
+
+(B)
+1
+1
+0
+1
+
+
+
+
+
+
+(C)
+1 0
+1
+1
+
+
+
+
+
+
+(D)
+0
+1
+1
+1
+
+
+
+
+
+
+Ans : (A)
+Hint :   
+2
+1
+3
+2
+1
+0
+A
+3
+2
+5
+3
+0
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Premultiplication by 
+2
+1
+3
+2
+
+
+
+
+
+
+
+ both sides
+  
+3
+2
+2
+1
+A
+5
+3
+3
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Post multiplication by 
+3
+2
+5
+3
+
+
+
+
+
+ both sides
+2
+1
+3
+2
+1
+1
+A
+3
+2
+5
+3
+1 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+37.
+Let A be the set of even natural numbers that are < 8 &
+B be the set of prime integers that are < 7
+The number of relations from A to B are
+(A)
+32
+(B)
+29–1
+(C)
+92
+(D)
+29
+Ans : (D)
+Hint :  A = {2, 4, 6}
+  B = {2, 3, 5}
+ Number of relations from A to B is 29
+38.
+In , a relation p is defiened as follows :
+a, b  , a p b holds if a2 –4ab + 3b2 = 0. Then
+(A)
+p is equivalence relation
+(B)
+p is only symmetric
+(C)
+p is only reflexive
+(D)
+p is only transitive
+Ans : (C)
+Hint :  a  b
+ a2 –4ab + 3b2 = 0
+   a  a because a2 –4a.a + 3a2 = 0, 
+a
+
+ it is reflective only.
+39.
+Let f :
+
+
+ be a function defined by 
+x
+x
+x
+x
+e
+e
+f x
+,
+e
+e
+
+
+
+
+
+ then
+(A)
+f is both one-one and onto
+(B)
+f is one-one but not onto
+(C)
+f is onto but not one-one
+(D)
+f is neither one-one nor onto
+Ans : (D)
+Hint :  f :
+
+
+, 
+x
+x
+x
+x
+e
+e
+f x
+e
+e
+
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 15 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(14)
+  Case I:
+If x  0
+  
+x
+x
+x
+x
+x
+x
+x
+2x
+e
+e
+2e
+2
+f x
+1
+1
+1
+e
+e
+e
+e
+e
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Case II:
+x < 0
+
+x
+x
+x
+x
+e
+e
+f x
+0
+e
+e
+
+
+
+
+
+
+
+40.
+The expression cos2 + cos2( + ) – 2 cos  cos  cos(  + ) is
+(A)
+independent of 
+(B)
+independent of 
+(C)
+independent of and (D)
+dependent on  and 
+Ans : (B)
+Hint :  cos2 + cos2( + ) –2cos.cos cos( + )
+  for  = 0
+  cos2 + cos2 – 2cos2 = 0
+  which is independent from  .
+41.
+Two smallest squares are chosen one by one on a chess board. The probability that they have a side in common is
+(A)
+1
+9
+(B)
+2
+7
+(C)
+1
+18
+(D)
+5
+18
+Ans : (C)
+Hint :  
+For each corner squarers there will be two options for each border squares there will be 3 options for each other
+squares there will be 4 options.
+ favourable cases
+4
+2
+24
+3
+36
+4
+112
+2
+
+
+
+
+
+
+ required probability 
+112
+1
+64
+63
+18
+
+
+42.
+Two integers r and s are drawn one at a time without replacement from the set {1, 2, ....., n}. Then P (r  k/s  k) =
+(A)
+k
+n
+(B)
+k
+n
+1
+
+(C)
+k
+1
+n
+
+(D)
+k
+1
+n
+1
+
+
+Ans : (D)
+
+[Images on page: 0]
+
+
+========== PAGE 16 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(15)
+Hint :  
+
+
+
+
+
+p r
+k
+s
+k
+p r
+k / s
+k
+p s
+k
+
+
+
+
+
+
+
+Now, 
+
+k
+p s
+k
+n
+
+
+
+
+
+
+
+
+k
+2
+n
+2
+k k
+1
+C
+p r
+k
+s
+k
+C
+n n
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+k k
+1
+n n
+1
+k
+1
+p r
+k / s
+k
+k
+n
+1
+n
+
+
+
+
+
+
+
+
+
+43.
+A biased coin with probability p (0 < p < 1) of getting head is tossed until a head appears for the first time. If the
+probability that the number of tosses required is even is 2
+5 , then p =
+(A)
+1
+4
+(B)
+1
+3
+(C)
+2
+3
+(D)
+3
+4
+Ans : (B)
+Hint :  required probability will be
+
+
+
+
+3
+2
+1 p p
+1 p
+p
+5
+
+
+
+
+
+
+
+
+2
+1 p
+2
+p
+5
+1
+1 p
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+p 1 p
+2
+5
+1
+1
+2p
+p
+
+
+
+
+
+
+2
+2
+p
+p
+2
+2p
+p
+5
+
+
+
+
+1
+p
+3
+
+
+44.
+In ABC, co-ordinates of A are (1, 2) and the equation of the medians through B and C are x + y = 5 and x = 4
+respectively. Then the midpoint of BC is
+(A)
+1
+5,2
+
+
+
+
+
+
+(B)
+11,1
+2
+
+
+
+
+
+
+(C)
+1
+11, 2
+
+
+
+
+
+
+(D)
+11 1
+,
+2 2
+
+
+
+
+
+
+Ans : (D)
+
+[Images on page: 0]
+
+
+========== PAGE 17 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(16)
+Hint :  
+(4,1)
+(1,2)
+( , )
+
+A
+B
+C
+D
+E
+F
+G
+Let D, E, F be midpoint of BC, AC and AB respectively.
+According to question equation of BE : x + y = 5
+Equation of CF
+x = 4
+ Centroid (4, 1)
+Let point D be (, )
+1
+2
+A(1,2)
+D( , )
+
+G(4,1)
+by section formula,
+
+
+11 1
+,
+,
+2 2
+
+
+
+
+
+
+45.
+If 0
+2
+
+
+ and tan 3
+0
+
+, then tan
++ tan 2 + tan 3 = 0
+
+
+
+if tan . tan 2 = k
+
+
+where k =
+(A)
+1
+(B)
+2
+(C)
+3
+(D)
+4
+Ans : (B)
+Hint :
+3
+2
+
+
+
+
+
+tan
+tan2
+tan 3
+tan
+2
+1
+tan
+. tan2
+
+
+
+
+
+
+
+
+tan3
+tan 3
+1 k
+
+
+
+
+
+
+
+1
+1
+tan3
+0
+1 k
+
+
+
+
+
+
+ 1 k
+1
+k
+2
+
+
+
+
+46.
+The equation r cos  = 2a sin2  represents the curve
+(A)
+x3 = y2(2a + x)
+(B)
+x2 = y2(2a + x)
+(C)
+x3 = y2(2a – x)
+(D)
+x3 = y2(a + x)
+Ans : (C)
+Hint :
+2
+r cos
+2asin
+
+
+
+ 
+
+2
+2
+2
+x x
+y
+2ay
+
+
+
+ 
+
+
+3
+2
+x
+y
+2a
+x
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 18 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(17)
+47.
+If (1, 5) be the midpoint of the segment of a line between the line 5x – y – 4 = 0 and 3x + 4y – 4 = 0, then the equation
+of the line will be
+(A)
+83x + 35y – 92 = 0
+(B)
+83x – 35y + 92 = 0
+(C)
+83x – 35y – 92 = 0
+(D)
+83x + 35y + 92 = 0
+Ans : (B)
+Hint :
+48.
+Chords AB & CD of a circle intersect at right angle at the point P. If the length of AP, PB, CP, PD and 2, 6, 3, 4 units
+respectively, then the radius of the circle is
+(A)
+4 units
+(B)
+65
+2
+units
+(C)
+67
+2
+units
+(D)
+66
+2
+units
+Ans : (B)
+Hint :
+A(–2,0)
+D(0,–4)
+B(6,0)
+C(0,3)
+O(x,y)
+
+
+O x,y
+centre
+
+OC
+OA
+OB
+OD
+
+
+
+
+65
+r
+2
+
+
+49.
+A line of fixed length a + b, a  b moves so that its ends are always on two fixed perpendicular straight lines. The
+locus of a point which divides the line into two parts of legnth a and b is
+(A)
+a parabola
+(B)
+a circle
+(C)
+an ellipse
+(D)
+a hyperbola
+Ans : (C)
+Hint :
+P(h,k)
+A(0,n)
+B(n,0)
+
+
+2
+2
+2
+m
+n
+a
+b
+
+
+
+AP
+a ;PB
+b
+
+
+2
+2
+2
+2
+h
+k
+1
+a
+b
+
+
+
+50.
+With origin as a foucs and x = 4 as corresponding directrix, a family of ellipse are drawn. Then the locus of an end of
+minor axis is
+(A)
+a circle
+(B)
+a parabola
+(C)
+a straight line
+(D)
+a hyperbola
+Ans : (B)
+Hint :
+M
+F
+(h,k)
+B
+(0,0)
+x = 4
+h = – ae, k = b,  
+2
+2
+a
+b
+ae
+4
+a(1
+e )
+4e
+4e
+e
+a
+
+
+
+
+
+
+
+2
+2
+2
+b
+4ae
+k
+4h
+y
+4x
+
+
+
+
+
+
+Which is a general conic and satisfying the condition of parabola.
+
+[Images on page: 0]
+
+
+========== PAGE 19 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(18)
+CATEGORY - 2 (Q.51 to 65)
+(Carry 2 marks each. Only one option is correct. Negative marks : –½)
+51.
+
+
+k
+k
+k
+k
+k 1
+x
+1
+lim
+2
+4
+6
+....
+2n
+n 
+
+
+
+
+
+
+
+
+
+
+
+
+(A)
+k
+2
+k
+(B)
+k 1
+2
+k
+1
+
+
+(C)
+k
+2
+k
+1
+
+(D)
+k
+2
+k
+1
+
+Ans : (C)
+Hint : 
+
+
+k
+k
+n
+1
+k
+0
+r 1
+1
+2r
+2
+lim
+2x
+dx
+n
+n
+k
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+52.
+If 
+
+
+e
+2
+2
+1
+1
+e
+2
+2
+e
+e
+e
+log
+3
+2 log x
+d y
+x
+y
+tan
+tan
+, then
+1
+6 . log x
+dx
+log
+ex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(A)
+2
+(B)
+1
+(C)
+0
+(D)
+–1
+Ans : (C)
+Hint : 
+
+
+
+
+
+
+1
+1
+1
+1
+y
+tan
+1
+tan
+2lnx
+tan
+3
+tan
+2lnx
+
+
+
+
+
+
+
+
+ 53. Consider the function f(x) = x(x – 1) (x – 2) ... (x – 100). Which one of the following is correct ?
+(A)
+This function has 100 local maxima
+(B)
+This function has 50 local maxima
+(C)
+This function has 51 local maxima
+(D)
+Local minima do not exist for this function
+Ans : (B)
+Hint : f(x) = x (x – 1) (x – 2) (x – 3) .... (x – 100)
+A1
+A3
+A2
+54.
+Let 
+R
+R sin x
+0
+I R
+e
+dx, R
+0
+
+
+
+
+.
+then,
+(A)
+
+
+
+R
+I R
+1
+e
+2R
+
+
+
+
+(B)
+
+
+
+R
+I R
+1
+e
+2R
+
+
+
+
+(C)
+
+
+
+R
+I R
+1
+e
+2R
+
+
+
+
+(D)
+
+
+
+R
+I R and
+1
+e
+2R
+
+
+
+ are not comparable
+Ans : (D)
+Hint : Checking the different positive values of R, can’t comparable.
+
+[Images on page: 0]
+
+
+========== PAGE 20 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(19)
+55.
+In a plane a and b
+
+ are the position vectors of two points A and B respectively. A point P with position vector rmoves
+on that plane in such a way that | r
+a | ~ | r
+b |
+c
+
+
+
+
+
+
+
+(real constant). The locus of P is a conic section whose
+eccentricity is
+(A)
+| a
+b |
+c
+
+
+
+(B)
+| a
+b |
+c
+
+
+
+(C)
+| a
+b |
+2c
+
+
+
+(D)
+| a
+b |
+2c
+
+
+
+Ans : (A)
+Hint : 
+| a
+b |
+e
+c
+
+
+
+
+56.
+If 1, 2, ..., n are in A.P. with common difference , then the sum of the series
+sec 1 sec 2 + sec 2 sec 3 + .... + sec n–1 sec n = k(tan n –tan 1)
+where k =
+(A)
+sin 
+(B)
+cos 
+(C)
+sec 
+(D)
+cosec 
+Ans : (D)
+Hint : 2 – 1 = 3 – 2 = ... = 
+s = 
+
+
+
+
+2
+1
+1
+2
+1
+1
+sin
+sin
+1
+sin
+cos
+cos
+cos
+cos
+n
+n
+n
+n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= cosec [tan n – tan 1]
+57.
+Five balls of different colours are to be placed in three boxes of different sizes. The number of ways in which we can
+place the balls in the boxes so that no box remains empty is
+(A)
+160
+(B)
+140
+(C)
+180
+(D)
+150
+Ans : (D)
+Hint :  35 – 3C1(3–1)5 + 3C2 15 – 0 = 150
+58.
+Let A = 
+1
+1
+0
+0
+1
+1
+1
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+
+, B = 
+2
+1
+7
+
+
+
+
+
+Then for the validity of the result AX = B, X is
+(A)
+1
+1
+7
+
+
+
+
+
+
+
+
+
+
+
+(B)
+1
+2
+4
+
+
+
+
+
+(C)
+3
+1
+1
+
+
+
+
+
+
+
+
+
+
+
+(D)
+4
+2
+1
+
+
+
+
+
+Ans : (D)
+Hint : By option elimination.
+59.
+If 1000! = 3n × m where m is an integer not divisible by 3. then n =
+(A)
+498
+(B)
+298
+(C)
+398
+(D)
+98
+Ans : (A)
+Hint : E3(1000!) = 
+2
+3
+4
+5
+6
+1000
+1000
+1000
+1000
+1000
+1000
+3
+3
+3
+3
+3
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ = 498
+60.
+ For the real numbers x & y, we write x p y if x – y + 
+2  is an irrational number. Then relation p is
+(A)
+reflexive
+(B)
+symmetric
+(C)
+transitive
+(D)
+equivalence relation
+Ans : (A)
+Hint :  x p x = x – x + 
+2  = 
+2  is an irrational
+
+[Images on page: 0]
+
+
+========== PAGE 21 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(20)
+ 61. Let A = 
+0
+0
+1
+0
+1
+0
+1
+0
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+, then
+(A)
+A is a null matrix
+(B)
+A is skew symmetric matrix
+(C)
+A–1 does not exist
+(D)
+A2 = 1
+Ans : (D)
+Hint :  A2 = 1
+62.
+Angle between two diagonals of a cube will be
+(A)
+1 1
+cos
+3
+
+
+
+
+
+
+(B)
+1 1
+sin
+3
+
+
+
+
+
+
+(C)
+1 1
+cos
+2
+3
+
+
+
+
+
+
+
+
+
+(D)
+1 1
+sin
+2
+3
+
+
+
+
+
+
+
+
+
+Ans : (A)
+Hint : 
+y
+D(0,1,1)
+E(0,0,1)
+C(1,1,1)
+B(1,1,0)
+y
+O
+x
+A(1,0,0)
+F(1,0,1)
+d.c. of diagonal OC : 1
+1
+1
+,
+,
+3
+3
+3
+ or, 
+1
+1
+1
+,
+,
+3
+3
+3
+
+
+
+d.c. of diagonal AD : 
+1
+1
+1
+,
+,
+3
+3
+3
+
+ or, 1
+1
+1
+,
+,
+3
+3
+3
+
+
+Angle between OC & AD = cos–1 1
+3
+
+
+
+
+
+
+63.
+If A and B are acute angles such that sin A = sin2 B and 2 cos2 A = 3 cos2 B, then (A, B) =
+(A)
+,
+6 4
+
+
+
+
+
+
+
+(B)
+,
+6 6
+
+
+
+
+
+
+
+(C)
+,
+4 6
+
+
+
+
+
+
+
+(D)
+,
+4 4
+
+
+
+
+
+
+
+Ans : (A)
+Hint :  2cos2A = 3(1–sin2B)
+ 2 – 2sin2A = 3 – 3sinA
+(sin2B = sinA)
+
+[Images on page: 0]
+
+
+========== PAGE 22 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(21)
+ sinA = 1, 1
+2
+ sinB = 1, 1
+2
+ (A, B)  
+,
+2
+2
+
+
+
+
+
+
+
+
+
+ or 
+,
+6
+4
+
+
+
+
+
+
+
+
+
+64.
+If two circles which pass through the points (0, a) and (0, –a) and touch the line y = mx + c, cut orthogonally then
+(A)
+c2 = a2(1 + m2)
+(B)
+c2 = a2(2 + m2)
+(C)
+c2 = a2(1 + 2m2)
+(D)
+2c2 = a2(1 + m2)
+Ans : (B)
+Hint :  Let the circle be x2 + y2 + 2gx + 2fy + k = 0.
+ passes through (0,a) & (0,–a)
+ k = – a2, f = 0
+ x2 + y2 + 2gx – a2 = 0
+( two circles are orthogonal)
+ 2g1 g2 + 2f1 f2 = c1 + c2
+ g1 g2 = –a2
+1
+also y = mx + c is the tangent to the given circles
+ radius = distance of centre (– g, 0) from the line
+ 
+2
+2
+2
+1
+mg
+c
+g
+a
+m
+
+
+
+
+ g2 – 2mcg + a2(1 + m2) – c2 = 0
+ g1 g2 = a2(1 + m2) – c2
+2
+from 1  and 2
+c2 = (m2 + 2)a2
+65.
+The locus of the midpoint of the system of parallel chords parallel to the line y = 2x to the hyperbola
+9x2  – 4y2 =  36 is
+(A)
+8x – 9y = 0
+(B)
+9x – 8y = 0
+(C)
+8x + 9y = 0
+(D)
+9x – 4y = 0
+Ans : (B)
+Hint : Locus implies diameter of the hyperbola
+i.e. y = 
+2
+2
+b
+x
+a m
+(m = 2)
+ y = 9
+8 x
+ 9x – 8y = 0
+
+[Images on page: 0]
+
+
+========== PAGE 23 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(22)
+CATEGORY - 3 (Q66 to Q75)
+(Carry 2 marks each. One or more options are correct. No negative marks)
+66.
+Choose the correct statement :
+(A)
+x + sin 2x is a periodic function
+(B)
+x + sin 2x is not a periodic function
+(C)
+cos
+
+1
+x 
+ is a periodic function
+(D)
+cos
+
+1
+x 
+ is not a periodic function
+Ans : (BD)
+Hint : f(x) = x + sin2x is not a periodic function of x (since ‘x’ is increasing function)
+also g(x) = cos
+
+1
+x 
+ is not a periodic function of x (since g(x+T) can never be equal to g(x))
+67.
+The points of extremum of 
+2
+x
+2
+t
+0
+t
+5t
+4
+2
+e
+
+
+
+
+ dt are
+(A)
+1
+
+(B)
+2
+
+(C)
+3
+
+(D)
+2
+
+Ans : (A, B)
+Hint :  
+2
+x
+2
+t
+0
+t
+5t
+4
+f x
+dt
+2
+e
+
+
+
+
+
+ ..... (i)
+to find extremum points we solve f(x) = 0
+so differentiating equation (i) using Newton Leibnitz Rule,
+
+
+
+
+2
+2
+2
+x
+(x
+1) x
+4
+f
+x
+2x
+2
+e
+
+
+
+
+
+
+so, 
+
+f
+x
+0 at x
+0,
+1,
+2
+
+
+
+
+
+68.
+Let  be the curve y = be–x/a & L be the straight line x
+y
+1
+a
+b
+
+ where a, b 
+(A)
+L touches the curve  at the point where the curve crosses the axis of y.
+(B)
+L does not touch the curve at the point where the curve crosses the axis of y.
+(C)
+ touches the axis of x at the point.
+(D)
+  never touches the axis of x.
+Ans : (A, D)
+Hint :  
+on differentiating
+x/a
+x/a
+w.r.t x
+dy
+b
+y
+be
+e
+dx
+a
+
+
+
+
+
+
+
+    at x = 0,  y = b,  dy
+b
+dx
+a
+
+
+so, equation of tengent at (0,b) is 
+
+
+b
+y
+b
+x
+0
+a
+
+
+
+ 
+x
+y
+1
+a
+b
+L
+
+
+
+so, L touches the given curve at (0, b)
+dy
+dx
+
+can be never be 0, so, the given curve never touches the x – axis.
+
+[Images on page: 0]
+
+
+========== PAGE 24 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(23)
+69.
+The acceleration f ft/sec2 of a particle after a time t sec starting from rest is given by f
+6
+1.2t
+
+
+. Then the
+maximum velocity v and time T at attend this velocity are
+(A)
+T = 20 sec
+(B)
+v = 60 ft/sec
+(C)
+T = 30 sec
+(D)
+v = 40 tt/sec
+Ans : (B, C)
+Hint :  Given 
+n
+dv
+acc
+f
+6
+1.2t
+dt
+
+
+
+
+  (t is in secs)
+at  t = 0, v = 0 and let the maximum velocity is ‘v’ which is attained at ‘t0’
+at  maximum velocity, 
+0
+dv
+0
+f
+0
+t
+30s
+dt 
+
+
+
+
+     so, 
+
+
+v
+30
+0
+0
+dv
+6
+1.2t dt
+
+
+
+
+  
+v
+60 ft/s
+
+
+70.
+If the quadratic equation ax2 + bx + c = 0 ( a > 0) has two roots  and  such that  < –2 and  > 2 then
+(A)
+c < 0
+(B)
+a + b + c > 0
+(C)
+a – b + c < 0
+(D)
+a – b + c > 0
+Ans : (A, C)
+Hint :  f(x) = ax2 + bx + c
+
+
+–2
+2
+so, f(–2) < 0  and  f(2) > 0
+also, f(0) < 0  c < 0
+f(–1) < 0  a – b + c < 0
+f(1) < 0  a + b + c < 0
+71.
+If n is a positive integer, the value of (2n + 1) 
+
+
+
+
+n
+n
+n
+n
+0
+1
+2
+n
+C
+2n
+1
+C
+2n
+3
+C
+....
+1
+C
+
+
+
+
+
+
+
+ is
+(A)
+(n + 1)2n
+(B)
+3n
+(C)
+f(2) where f(x) = xn+1
+(D)
+(n + 1)2n+1
+Ans : (A, C)
+Hint :   
+
+
+n
+n
+r
+r 0
+2n
+1
+2r
+C
+
+
+
+
+
+n
+n
+n
+n
+r
+r
+r 0
+r 0
+2n
+1
+C
+2
+r
+C
+
+
+
+
+
+
+
+
+
+
+
+
+n
+n 1
+n
+2n
+1 2
+2 n 2
+n
+1 2
+
+
+
+
+
+
+
+
+
+
+If  f(x)=xn+1
+    f(2) = (n + 1) · 2n
+72.
+ The function f :
+
+
+defined by f(x) = ex + e–x is
+(A)
+one-one
+(B)
+onto
+(C)
+bijective
+(D)
+not bijective
+Ans : (D )
+Hint :  f(x) is even function  Not one - one
+ ex + e–x can’t be negative     Not onto
+
+[Images on page: 0]
+
+
+========== PAGE 25 ==========
+WBJEE - 2024 (Answers & Hints)
+Mathematics
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(24)
+73.
+If 
+
+
+i
+i
+i
+a , b , c
+i
+1, 2,3
+
+
+
+and x  and 
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+a
+b x
+a x
+b
+c
+a
+b x
+a x
+b
+c
+0
+a
+b x
+a x
+b
+c
+
+
+
+
+
+
+
+, then
+(A)
+x = 1
+(B)
+x = –1
+(C)
+1
+1
+1
+2
+2
+2
+3
+3
+3
+a
+b
+c
+a
+b
+c
+0
+a
+b
+c
+
+(D)
+x = 2
+Ans : (A, B, C)
+Hint :  
+
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+a
+b
+c
+1
+x
+a
+b
+c
+0
+a
+b
+c
+
+
+74.
+If ABC is an isosceles triangle and the coordinates of the base points are B(1, 3) and C(–2, 7). The coordinates of
+A can be
+(A)
+(1, 6)
+(B)
+1,5
+8
+
+
+
+
+
+
+
+(C)
+5,6
+6
+
+
+
+
+
+
+(D)
+1
+7,8
+
+
+
+
+
+
+
+Ans : (C, D)
+Hint :   Let A (x, y)   now (AB)2 = (AC)2
+except mid point of BC   forABC to be isosceles      8y – 6x = 43
+75.
+ A square with each side equal to ‘a’ above the x-axis and has one vertex at the origin. One of the sides passing
+through the origin makes an angle  
+0
+4
+
+
+
+
+
+
+
+
+ with the positive direction of the axis. Equation of the diagonals of
+the square.
+(A)
+y(cos
+sin )
+x(sin
+cos )
+
+
+
+
+(B)
+y(cos
+sin )
+x(cos
+sin )
+
+
+
+
+(C)
+y(sin
+cos )
+x(cos
+sin )
+a
+
+
+
+
+(D)
+ y(cos
+sin )
+x(cos
+sin )
+a
+
+
+
+
+Ans : (A, C)
+Hint :  
+C
+B
+A
+O
+45°
+
+Y
+X
+OB  y = tan(45 + ) x
+y(cos – sin) = x(sin + cos)
+AC
+OB,
+
+
+A(acos, asin)       
+
+
+
+
+
+sin
+cos
+AC
+y
+asin
+x
+acos
+sin
+cos
+
+
+
+
+
+
+
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 26 ==========
+Q.No.
+01
+C
+B
+B
+D
+02
+B*
+B
+C
+A
+03
+A
+A
+D
+D
+04
+D
+D
+D
+C
+05
+B
+D
+B
+D
+06
+×
+D
+×
+A
+07
+C
+C
+D
+C
+08
+D
+B*
+B
+B
+09
+B
+A
+B
+B
+10
+C
+C
+C
+D
+11
+D
+B
+C
+A
+12
+B
+×
+A
+D
+13
+B
+D
+D
+A
+14
+×
+D
+D
+D
+15
+D
+B
+C
+C
+16
+C
+C
+D
+B*
+17
+B
+B
+C
+×
+18
+C
+D
+A
+C
+19
+D
+B
+B
+B
+20
+A
+×
+B
+C
+21
+D
+C
+D
+D
+22
+D
+C
+A
+D
+23
+C
+B
+D
+B
+24
+A
+A
+B*
+C
+25
+C
+D
+A
+×
+26
+B
+C
+D
+D
+27
+B
+D
+C
+B
+28
+D
+D
+×
+B
+29
+D
+C
+C
+C
+30
+A
+A
+B
+C
+31
+D
+C
+D
+B
+32
+D
+D
+D
+C
+33
+B
+D
+B
+D
+34
+B
+B
+C
+D
+35
+C
+B
+D
+B
+36
+D
+B,C
+A,B,C
+C,D
+37
+A,B,C
+D
+A,B,D
+B,C
+38
+A,B,D
+A,B,C
+C,D
+D
+39
+C,D
+A,B,D
+B,C
+A,B,C
+40
+B,C
+C,D
+D
+A,B,D
+41
+A
+A
+C
+C,D #
+42
+C
+B
+B
+A
+43
+D
+A
+B
+D
+44
+B
+D
+C
+B
+45
+B
+C
+C
+B
+46
+C
+B
+C
+B
+47
+B
+A
+B
+C
+48
+C
+C
+C
+C
+49
+C
+D
+B
+A
+50
+C
+B
+C
+B
+51
+B
+B
+C
+A
+52
+B
+C
+B
+D
+53
+C
+C
+A
+D
+54
+A
+C
+A
+B
+55
+C
+C
+A
+A
+56
+C
+C
+C,D #
+C
+57
+B
+B
+B
+C
+58
+A
+B
+C
+B
+59
+C,D #
+A
+D
+B
+60
+A
+A
+B
+C
+61
+B
+C
+B
+C
+62
+B
+C
+A
+C
+63
+C
+B
+D
+B
+64
+D
+A
+C
+C
+65
+B
+C,D #
+A
+B
+66
+B
+B
+B
+B
+67
+A
+B
+C
+A
+68
+D
+B
+D
+A
+69
+C
+C
+B
+C
+70
+A
+D
+A
+C
+71
+A
+C
+D
+A
+72
+D
+A
+D
+C
+73
+D
+D
+A
+A
+74
+A
+D
+C
+D
+75
+C
+A
+A
+D
+76
+A,C
+B,C
+B,C
+B,D
+77
+B,C
+A,C
+A,B
+B,C
+78
+A,B
+B,C
+B,D
+A,C
+79
+B,D
+A,B
+B,C
+B,C
+80
+B,C
+B,D
+A,C
+A,B
+×
+Incorrect questions
+#
+More than one options are incorrect
+*
+Additional information required
+WBJEE  - 2024
+Answer Keys by
+Aakash Institute, Kolkata Centre
+
+[Images on page: 0]
+
+
+========== PAGE 27 ==========
+PHYSICS
+CATEGORY - 1 (Q1 to Q30)
+(Carry 1 mark each. Only one option is correct. Negative mark : – ¼)
+1.
+Let  be the angle between two vectors A
+
+ and B
+
+. If a
+
+ is the unit vector perpendicular to A
+
+, then the direction of
+B
+
+ – B sina
+
+ is
+(A)
+along B
+
+(B)
+perpendicular to B
+
+(C)
+along A
+
+(D)
+perpendicular to A
+
+Ans : (C)
+Hint : 
+B sin
+A
+
+B
+a 
+=
+B
+B sin
+B cos
+B sin
+B
+
+ – B sina
+
+ is along A
+
+2.
+The Power (P) radiated from an accelerated charged particle is given by P  
+
+m
+n
+q a
+c
+ where q is the charge, a is the
+acceleration of the particle and c is speed of light in vacuum. From dimensional analysis, the value of m and n
+respectively, are
+(A)
+m = 2, n = 2
+(B)
+m = 2, n = 3
+(C)
+m = 3, n = 2
+(D)
+m = 0, n = 1
+Ans : (B)
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(1)
+ANSWERS & HINTS
+for
+WBJEE - 2024
+SUB : PHYSICS & CHEMISTRY
+Code - 
+
+[Images on page: 0]
+
+
+========== PAGE 28 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(2)
+Hint : 
+2
+m
+m
+n
+0
+0
+q
+1 q a
+4
+rT
+c
+
+
+
+{taking 
+0
+1
+
+ in multiplication as constant of proportionality}
+2
+m
+m
+n
+q
+q a
+rT
+c
+
+m = 2
+m
+2
+n
+2
+2
+a
+1
+1 a
+c
+CT
+c c
+
+
+[c = aT]
+m
+2
+n
+3
+a
+a
+c
+c
+
+n = 3
+3.
+The convex lens (L1 and L2) of equal focal length f are placed at a distance f
+2  apart. An object is placed at a distance
+4f in the left of L1 as shown in figure. The final image is at
+f/2
+Object
+4f
+L1
+L2
+(A)
+5f
+11 right of L2
+(B)
+5f
+11 left of L2
+(C)
+5f right of L2
+(D)
+5f left of L2
+Ans : (A)
+Hint :  
+f/2
+4f
+f
+f
+1
+1
+1
+v
+u
+f
+
+
+1
+1
+1
+1
+1
+1
+1
+4
+1
+4f
+v
+v
+4f
+f
+v
+f
+4f
+v
+4f
+3
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+4f
+f
+8f
+3f
+5f
+u
+u
+3
+2
+6
+6
+
+
+
+
+
+
+2
+2
+2
+2
+1
+1
+1
+1
+6
+1
+1
+1
+6
+v
+u
+f
+v
+5f
+f
+v
+f
+5f
+
+
+
+
+
+
+
+
+2
+2
+1
+11
+5f
+v
+v
+5f
+11
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 29 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(3)
+4.
+Which of the following quantity has the dimension of length?
+(h is Planck’s constant, m is the mass of electron and c is the velocity of light)
+(A)
+hc
+m
+(B)
+2
+h
+mc
+(C)
+2
+2
+h
+mc
+(D)
+h
+mc
+Ans : (D)
+Hint :  [h] = [ML2T–1]
+[c] = [LT–1]
+[m] = [M1L0T0]
+Dimension of length
+[L] = hx cy mz
+[L1] = [ML2T–1]x [LT–1]y [M1L0T0]z
+Dimensional analysis on mass
+0 = x + z  x = –z  z = –1
+Dimensional analysis on length
+1 = 2x + y  2x – x = 1  x = 1
+Dimensional analysis on time
+0 = –x –y  –x = +y  y = –1
+Therefore final formula is h
+mc
+5.
+The speed distribution for a sample of N gas particles is shown below. P(v) = 0 for v > 2v0. How many particles have
+speeds between 1.2 v0 and 1.8 v0?
+P(v)
+a
+v
+v0
+2v0
+(A)
+0.2 N
+(B)
+0.4 N
+(C)
+0.6 N
+(D)
+0.8 N
+Ans : (B)
+Hint : Total area under curve = 3
+2 v0a = N
+Area under 1.2v0 to 1.8v0 is 0.6v0 = 0.4N
+6.
+The internal energy of a thermodynamic system is given by U = a s4/3 V where s is entropy, V is volume and ‘a’ and
+‘’ are constants. The value of  is
+(A)
+1
+(B)
+–1
+(C)
+1
+3
+(D)
+1
+3
+
+Ans : (No Answer)
+Hint :   it can’t be found dimensionally.
+7.
+A particle of mass ‘m’ moves in one dimension under the action of a conservative force whose potential energy has the
+form of U(x) = –
+2
+2
+x
+x
+
+
+ where  and  are dimensional parameters. The angular frequency of the oscillation is
+proportional to
+(A)
+3
+4
+m
+
+
+(B)
+4
+m
+
+
+(C)
+3
+m
+
+
+(D)
+6
+m
+
+
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 30 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(4)
+Hint : U = –
+2
+2
+x
+x
+
+
+here,[] = [L]
+[] = [ML3 T–2]
+only option (C) has dimension of 1
+T
+8.
+Longitudinal waves cannot
+(A)
+have a unique wave length
+(B)
+have a unique wave velocity
+(C)
+transmit energy
+(D)
+be polarized
+Ans : (D)
+Hint :  Longitudinal wave can not be polarized.
+9.
+A 2 V cell is connected across to points A and B as shown in the figure. Assume that the resistance of  each diode
+is zero in forward bias and infinity in reverse bias. The curring supplied by the cell is
+10
+20
+B
+A
++
+–
+2V
+(A)
+0.5 A
+(B)
+0.2 A
+(C)
+0.1 A
+(D)
+0.25 A
+Ans : (B)
+Hint :  
+10
+B
+A
+2V
+=
+2V
+10
+i = 2
+10  = 0.2A
+10.
+A charge Q is placed at the centre of a cube of sides a. The total flux of electric field through the six surfaces of the
+cube is
+(A)
+2
+0
+6Qa
+
+(B)
+2
+0
+Qa
+6 
+(C)
+Q/0
+(D)
+Qa2/0
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 31 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(5)
+Hint :  
+Q
+a
+Flux passing through all six sides is 
+0
+Q
+
+11.
+The elastic potential energy of a strained body is
+(A)
+stress × strain
+(B)
+stress / strain
+(C)
+stress × strain / volume
+(D)
+1
+2  × stress × strain × volume
+Ans : (D)
+Hint : Elastic PE =  1
+2  × stress × strain × V
+12.
+Which of the following statement(s) is/are true in respect of nuclear binding energy?
+(i)
+The mass energy of a nucleus is larger than the total mass energy of its individual protons and neutrons.
+(ii)
+If a nucleus could be separated into its nucleons, an energy equal to the binding energy would have to be
+transferred to the particles during the separating process.
+(iii)
+The binding energy is a measure of how well the nucleons in a nucleus are held together.
+(iv)
+The nuclear fission is somehow related to acquiring higher binding energy.
+(A)
+Statements (i), (ii) and (iii) are true
+(B)
+Statements (ii), (iii) and (iv) are true
+(C)
+Statements (ii) and (iii) are true
+(D)
+All the four statements are true
+Ans : (B)
+Hint :  [(ii), (iii) and (iv)]
+13.
+A satellite of mass m rotates round the earth in a circular orbit of radius R. If the angular momentum of the satellite
+is J, then its kinetic energy (K) and the total energy (E) of the satellite are
+(A)
+2
+2
+2
+2
+J
+J
+K
+, E
+mR
+2mR
+
+
+(B)
+2
+2
+2
+2
+J
+J
+K
+, E
+2mR
+2mR
+
+
+(C)
+2
+2
+2
+2
+J
+J
+K
+, E
+2mR
+mR
+
+
+(D)
+2
+2
+2
+2
+J
+J
+K
+, E
+2mR
+mR
+
+
+Ans : (B)
+Hint :  
+2
+2
+2
+J
+J
+KE
+, E
+KE
+2I
+2mR
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 32 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(6)
+14.
+What force F is required to start moving this 10 kg block shown in the figure if it acts at an angle of 60° as shown ?
+
+
+s
+0.6
+
+
+(A)
+22.72 N
+(B)
+24.97 N
+(C)
+25.56 N
+(D)
+27.32 N
+Ans : (Incorrect Question)
+Hint : For block to move
+1 1
+tan
+
+
+
+
+
+
+
+15.
+Light of wavelength 6000Å is incident on a thin glass plate of r.i. 1.5 such that the angle of refraction into the plate is
+60°. Calculate the smallest thickness of the plate which will make dark fringe by reflected beam interference.
+(A)
+1.5 × 10–7m
+(B)
+2 × 10–7m
+(C)
+3.5 × 10–7m
+(D)
+4 × 10–7m
+Ans : (D)
+Hint : 2t Cos r = n
+put n = 1
+16.
+A
+R
+R
+R
+B
+E , r
+0
+Consider a circuit where a cell of emf E0 and internal resistance r is connected across the terminal A and B as shown
+in figure. The value of R for which the power generated in the circuit is maximum, is given by
+(A)
+R = r
+(B)
+R = 2r
+(C)
+R = 3r
+(D)
+r
+R
+3
+
+Ans : (C)
+Hint : Rext
+  = r
+R
+r
+3 
+R = 3r
+17.
+The equivalent capacitance of a combination of connected capacitors shown in the figure between the points P and N
+is
+C
+C
+C
+P
+N
+(A)
+3 C
+(B)
+2C
+3
+(C)
+4C
+5
+(D)
+3 C
+2
+
+[Images on page: 0]
+
+
+========== PAGE 33 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(7)
+Ans : (B)
+Hint : c
+2c
+2c
+3c
+3
+
+
+18.
+In a single-slit diffraction experiment, the slit is illuminated by light of two wavelength 1 and 2. It is observed that the
+2nd order diffraction minimum for 1 coincides with the 3rd diffraction minimum for 2. Then
+(A)
+1
+2
+2
+3
+
+
+
+(B)
+1
+2
+5
+7
+
+
+
+(C)
+1
+2
+3
+2
+
+
+
+(D)
+1
+2
+7
+5
+
+
+
+Ans : (C)
+Hint : dsin
+n
+
+
+1 1
+2 2
+n
+n
+
+
+1
+2
+2
+1
+n
+3 / 2
+n
+
+
+
+
+19.
+The acceleration-time graph of a particle moving in a straight line is shown in the figure. If the initial velocity of the
+particle is zero then the velocity-time graph of the particle will be
+T/2
+t
+0
+f
+45°
+45°
+(A)
+T/2
+t
+0
+v
+T
+(B)
+T/2
+t
+0
+v
+T
+(C)
+T/2
+t
+0
+v
+T
+(D)
+T/2
+t
+0
+v
+T
+Ans : (D)
+Hint :
+a
+slope of v
+t graph
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 34 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(8)
+20.
+The position vector of a particle of mass m moving with a constant velocity is given by 
+ˆ
+ˆ
+r
+x t i
+bj
+
+
+
+, where b is a
+constant. At an instant, rmakes an angle  with the x-axis as shown in the figure. The variation of the angular
+momentum of the particle about the origin with  will be
+(A) 
+
+t
+0
+|L|
+2
+0
+(B)
+
+t
+0
+|L|
+2
+
+(C)
+
+0
+2
+
+|L|
+(D)
+
+t
+0
+|L|
+2
+
+Ans : (A)
+Hint : L = mVx . b = constant
+21.
+2b
+x
+2a
+b
+(0,0)
+a
+y
+m2
+r1cm
+m1
+The position of the centre of mass of the uniform plate as shown in the figure is
+(A)
+a
+b
+,
+2
+2
+
+
+
+
+
+
+
+
+(B)
+a b
+,
+8 8
+
+
+
+
+
+
+(C)
+b
+a
+,
+6
+6
+
+
+
+
+
+
+
+
+(D)
+a
+b
+,
+6
+6
+
+
+
+
+
+
+
+
+Ans : (D)
+Hint : Required 
+
+
+1
+1cm
+2
+m
+r
+r
+m
+
+
+
+m2 = 3m1
+
+[Images on page: 0]
+
+
+========== PAGE 35 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(9)
+22.
+~
+R
+L
+C
+                         V
+50 2 sin t
+
+
+In a series LCR circuit, the rms voltage across the resistor and the capacitor are 30 V and 90 V respectively. If the
+applied voltage is 50 2  sin t, then the peak voltage across the inductor is
+(A)
+70 V
+(B)
+50 V
+(C)
+70 2 V
+(D)
+50 2 V
+Ans : (D)
+Hint :
+
+2
+2
+L
+30
+90
+V
+50
+
+
+
+L
+V
+50V
+
+
+= 
+
+L max
+V
+50 2 V
+
+23.
+L
+O
+m
+
+A small ball of mass m is suspended from the ceiling of a floor by a string of length L. The ball moves along a
+horizontal circle with constant angular velocity , as shown in the figure. The torque about the centre (O) of the
+horizontal circle is
+(A)
+mg L sin 
+(B)
+mg L
+(C)
+0
+(D)
+mg L cos 
+Ans : (C)
+Hint : Angular momentum is conserved about O.
+
+[Images on page: 0]
+
+
+========== PAGE 36 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(10)
+24.
+If 1
+2
+ˆ
+ˆ
+ˆ
+n , n and t represent, unit vectors along the incident ray, reflected ray and normal to the surface respectively, then
+n1^
+t^
+n2^
+
+
+(A)
+
+
+2
+1
+1 ˆ ˆ
+ˆ
+ˆ
+ˆ
+n
+n
+2 n .t t
+
+
+(B)
+
+
+2
+1
+1 ˆ ˆ
+ˆ
+ˆ
+ˆ
+n
+n
+2 n .t t
+
+
+(C)
+2
+1
+ˆ
+ˆ
+n
+n
+
+(D) 
+
+
+2
+1
+1
+1
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+n
+2n
+n
+t . n
+
+
+
+Ans : (A)
+Hint :
+1
+ˆ
+ˆ
+ˆn
+cos
+t
+sin i
+
+
+
+
+2
+ˆ
+ˆ
+ˆn
+cos
+t
+sin i
+
+
+
+
+
+
+2
+1
+1
+ˆ
+ˆ ˆ
+ˆ
+ˆ
+ˆ
+n
+n
+2cos t
+2 n .t t
+
+
+
+1 ˆ
+ˆn .t
+cos
+
+
+
+
+2
+1
+1 ˆ ˆ
+ˆ
+ˆ
+ˆ
+n
+n
+2 n .t t
+
+
+25.
+A beam of light of wavelength falls on a metal having work function placed in a magnetic field B. The most energetic
+electrons, perpendicular to the field are bent in circular arcs of radius R. If the experiment is performed for different
+values of , then B2 vs. 1
+ graph will look like (keeping all other quantities constant)
+(A)
+B
+2
+O
+1
+
+(B)
+B
+2
+O
+1
+
+(C)
+B
+2
+O
+1
+
+(D)
+B
+2
+O
+1
+
+Ans : (C)
+Hint :  hc
+k
+
+
+,  
+2mk
+R
+qB
+
+  
+2
+B
+K
+
+, 
+2
+1
+2
+1
+B
+A
+A
+
+
+
+
+
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 37 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(11)
+26.
+A charged particle moving with a volocity 
+1
+2
+ˆ
+ˆ
+v
+v i
+v
+j
+
+
+
+ in a magnetic field B
+
+ experiences a force 
+1
+2
+ˆ
+ˆ
+F
+F i
+F j.
+
+
+
+ Here
+v1.v2,F1,F2 all are constants. Then B
+
+ can be
+(A)
+1
+1
+1
+2
+2
+2
+v
+B
+ˆ
+ˆ
+B
+B i
+B j with v
+B
+
+
+
+
+(B)
+1
+1
+1
+2
+3
+2
+2
+v
+B
+ˆ
+ˆ
+ˆ
+B
+B i
+B j
+B k with v
+B
+
+
+
+
+
+(C)
+3
+1
+2
+ˆ
+B
+B j with B
+B
+0
+
+
+
+
+(D)
+1
+1
+1
+2
+2
+2
+B
+v
+ˆ
+ˆ
+B
+B j
+B k with B
+v
+
+
+
+
+Ans : (B)
+Hint :  
+1
+2
+2
+1
+F
+V
+F.V
+0
+........(I)
+F
+V
+
+
+
+
+1
+2
+2
+1
+F
+B
+F.B
+0
+.........(II)
+F
+B
+
+
+
+
+Or  
+1
+1
+2
+2
+B
+V
+B
+V
+
+  
+1
+2
+3
+ˆ
+ˆ
+ˆ
+B
+B i
+B j
+B k
+
+
+
+
+27.
+Two straignt conducting plates form an angle  where their ends are joined. A conducting bar in contact with the plates
+and forming an isosceles triangle with them starts at the vertex at time t = 0 and moves with constant velocity v
+ to
+the right as shown in figure. A magnetic field B
+ points out of the page. The magnitude of emf induced at t = 1 second
+will be
+B
+v
+(A)
+Bv tan 2
+
+(B)
+2
+Bv
+tan 2
+
+(C)
+2
+2Bv
+tan 2
+
+(D)
+2
+2Bv
+sin 2
+
+Ans : (B)
+Hint : 
+2vt tan 2
+
+
+
+2
+B v
+2Bv tan 2
+
+
+
+
+28.
+Three point charges q, – 2q and q are placed along x axis at x = – a, 0 and a respectively. As a  0 and q  while
+q a2 = Q remains finite, the clectric field at a point P, at a distance x(x >> a) from x = 0 is 
+0
+Q
+ˆ
+E
+i
+4
+x
+
+
+
+. Then
+(A)
+
+(B)
+ = 2
+(C)
+2
+3
+
+
+(D)
+2 = 2
+Ans : (D)
+Hint :  
+3
+3
+3
+2kqa
+1
+1
+E
+x
+a
+a
+1
+1
+2x
+2x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 38 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(12)
+3
+3
+2kqa
+3a
+3a
+2kqa 3a
+1
+1
+2x
+2x
+x
+x
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ = 
+2
+4
+6kqa
+x
+ = 
+4
+1
+Q
+6 4
+x
+
+ = 4      
+3
+2
+6
+4
+
+
+ = 6    
+3
+2
+
+
+29.
+A body floats with 1
+n  of its volume keeping outside of water. If the body has been taken to height h inside water and
+released, it will come to the surface after time t. Then
+(A)
+t
+n
+
+(B)
+t
+n
+
+(C)
+t
+n
+1
+
+
+(D)
+t
+n
+1
+
+
+Ans : (D)
+Hint :  
+     FB = mg  ; 
+1
+V 1
+g
+Vdg
+n
+
+
+
+
+
+
+
+
+,  
+n
+1
+d
+n
+
+
+
+
+
+
+
+
+
+
+h  
+b
+F
+mg
+v g
+a
+g
+m
+m
+
+
+
+
+
+,  
+v g
+a
+g
+n
+1
+v
+n
+
+
+
+
+
+
+
+
+
+
+,  
+ng
+a
+g
+n
+1
+
+
+
+
+, 
+g
+a
+n
+1
+
+
+
+Now for time,  h = 
+2
+1at
+2
+,  h = 
+2
+1
+g
+t
+2 (n
+1)
+
+,  
+2h
+t
+(n
+1)
+g
+
+
+
+  =  
+t
+n
+1
+
+
+30.
+A small sphere of mass m and radius r slides down the smooth surface of a large hemispherical bowl of radius R. If the
+sphere starts sliding from rest, the total kinetic energy of the sphere at the lowest point A of the bowl will be [given,
+moment of inertia of sphere = 
+2
+2 mr
+5
+]
+O
+(A)
+ mg (R – r)
+(B)
+ 7 mg(R
+r)
+10
+
+(C)
+ 2mg(R
+r)
+7
+
+(D)
+ 10 mg(R
+r)
+7
+
+Ans : (A)
+Hint :  mg (R – r) = Kf
+Category 2 (Q. 31 to 35)
+(Carry 2 marks each. Only one option is correct. Negative marks – ½)
+31.
+When a convex lens is placed above an empty tank, the image of a mark at the bottom of the tank, which is 45 cm
+from the lengs is formed 36 cm above the lens. When a liquid is poured in the tank to a depth of 40 cm, the distance
+of the image of the mark above the lens is 48 cm. The refractive index of the liquid is
+(A)
+1.358
+(B)
+1.544
+(C)
+1.472
+(D)
+1.366
+Ans : (D)
+
+[Images on page: 0]
+
+
+========== PAGE 39 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(13)
+Hint :  
+36
+45
+    Initially without water,  1
+1
+1
+f
+20
+36
+45
+f
+
+
+
+
+
+then, after pouring water upto 40 cm
+48
+
+40
+5
+  apparent object distance 
+40
+5
+
+
+
+,  
+1
+1
+1
+40
+48
+20
+5
+
+
+
+
+ 
+1.366
+
+32.
+In the given network of AND and OR gates, output Q can be written as (assuming n even)
+X0
+X1
+2
+3
+n-1
+1
+n
+Q
+X2
+X3
+Xn–1
+Xn
+(A)
+X0X1 + X2X3 + ... Xn–1Xn
+(B)
+X0X1 ... Xn + X1X2 ... Xn + X2X3 ... Xn+Xn
+(C)
+X0X1 ... Xn–1 + Xn–2+ Xn–2 Xn–1 + Xn
+(D)
+X0X1 ... Xn–1 + X2 X3X5  ...Xn–1 + Xn–2 Xn–1+ Xn
+Ans : (D)
+Hint :  
+
+0
+1
+2
+3
+4
+5
+6
+7
+(X X
+X )X
+X
+X
+X
+X
+......
+
+
+
+
+
+
+
+
+33.
+Water in filled in a cylindrical vessel of height H. A hole is made at height z from the bottom, as shown in the figure.
+The value of of z for which the range (R) of the emerging water through the hole will be maximum for
+H
+z
+R
+(A)
+H
+z
+4
+
+(B)
+H
+z
+2
+
+(C)
+H
+z
+8
+
+(D)
+H
+z
+3
+
+Ans : (B)
+Hint : Theory
+34.
+A metal plate of area 10–2 m2 rests on a lauer of castor oil, 2 × 10–3 m thick whose coefficient of viscosity is 1.55
+Ns m–2. The approximate horizontal force required to move the plate with a uniform speed of 3 × 10–2 ms–1 is
+(A)
+0.6718 N
+(B)
+0.2325 N
+(C)
+0.2022 N
+ (D) 0.6615 N
+Ans : (B)
+
+[Images on page: 0]
+
+
+========== PAGE 40 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(14)
+Hint :   
+2
+2
+3
+v
+3 10
+F
+A
+1.55 10
+h
+2 10
+
+
+
+
+
+
+
+
+
+35.
+The following figure shows the variation of potential energy V(x) of a particle with distance x. The particle has
+V(x)
+x
+(A)
+Two equilibrium points, one stable another unstable (B)
+Two equilibrium points, both stable
+(C)
+Three equilibrium points, one stable two unstable
+(D)
+Three equilibrium points, two stable one unstabl
+Ans : (C)
+Hint : Theory
+Category 3 (Q36 to 40)
+(Carry 2 marks each. One or more options are correct. No negative marks)
+36.
+Monochromatic light of wavelength  = 4770 Å is incident separately on the surface of four different metals A, B, C and
+D. The work functions of A, B, C and D are 4.2 eV, 3.7 eV, 3.2 eV and 2.3 eV, respectively. The metal / metals from
+which electrons will be emitted is /are
+(A)
+A, B, C and D
+(B)
+B, C and D
+(C)
+ C and D
+(D)
+D only
+Ans : (D)
+Hint :
+photon
+hc
+E
+2.6 eV
+work function for photoelectons emission
+
+
+
+
+37.
+Consider the integral form of the Gauss’ law in electrostatics.
+0
+Q
+E ds
+
+
+
+
+
+Which of the following statements are correct?
+(A)
+It contains law of Coulomb.
+(B)
+It contains superposition principle.
+(C)
+An elementary patch on the enclosing surface is a polar vector.
+(D)
+An elementary patch on the enclosing surface is a pseudo-vector.
+Ans : (A, B, C)
+Hint :  Theory
+
+[Images on page: 0]
+
+
+========== PAGE 41 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(15)
+38.
+O
+X
+A
+B
+Y
+4 m/s
+3 m/s
+A uniform rod AB of length 1m and mass 4kg is sliding along two mutually perpendicular frictionless walls OX and OY.
+The velocity of the two ends of the rod A and B are 3 m/s and 4 m/s respectively, as shown in the figure. Then which
+of the following statement(s) is/are correct?
+(A)
+The velocity of the centre of mass of the rod is 2.5 m/s.
+(B)
+Rotational kinetic energy of the rod is 25
+6  joule.
+(C)
+The angular velocity of the rod is 5 rad/s clockwise.
+(D)
+The angular velocity of the rod is 5 rad/s anticlockwise.
+Ans : (A, B, D)
+Hint :  
+4m/s
+3m/s
+
+
+Get
+3cos
+4sin
+
+
+
+3sin
+4sin
+
+
+
+
+
+
+2
+2
+rotation
+1
+1
+25
+KE
+ml
+2 12
+6
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 42 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(16)
+39.
+Z
+A
+B
+C
+f
+The variation of impedance Z of a series LCR circuit with frequency of the source is shown in the figure. Which of the
+following statement(s) is/are true?
+(A)
+The impedance Z is inductive in the portion AC
+(B)
+The impedance Z is capacitive in the portion BC
+(C)
+ The impedance Z is inductive in the portion BC
+(D)
+ The impedance Z is capacitive in the portion AC
+Ans : (C, D)
+Hint :  
+f
+x  = x
+L
+C
+Z
+AC : X  < X  
+ capacitive nature
+L
+C 
+BC : X  > X  
+ Inductive nature
+L
+C 
+40.
+ The electric field of a plane electromagnetic wave in a medium is given by 
+
+
+
+0
+ik
+x y z
+ct
+0ˆ
+E x,y,z,t
+E ne
+
+
+
+
+
+
+
+
+where c is the speed of light in free space. E
+
+ field is polarized in the x – z plane. The speed of wave is  in the
+medium. Then
+(A)
+ˆ
+ˆ
+ˆn
+i
+k ;
+c.
+
+
+(B)
+ˆ
+ˆ
+i
+k
+c
+ˆn
+;
+2
+3
+
+
+
+(C)
+refractive index of the medium is 3
+(D)
+ 
+ˆ
+ˆ
+i
+k
+c
+ˆn
+;
+2
+2
+
+
+
+Ans : (B, C)
+Hint :  
+
+
+
+0
+ik
+k r wt
+0
+E
+E n e
+
+
+
+
+
+k
+i
+j
+k
+
+
+
+
+
+c
+c
+v
+3
+i
+j
+k
+
+
+
+
+
+ refractive index 
+3
+
+E
+ is in z – x plane and E V
+0
+
+
+
+
+
+
+i
+k
+n
+2
+
+
+
+
+
+[Images on page: 0]
+
+
+========== PAGE 43 ==========
+CHEMISTRY
+CATEGORY - 1 (Q 41 to 70)
+(Carry 1 mark each. Only one option is correct.  Negative marks: –¼)
+41.
+In the following sequence of reaction compound ‘M’ is
+3
+CH MgBr
+H
+4
+3
+2
+3
+M
+N
+CH
+CH COCH COCH
+
+
+
+
+(A)
+CH3COCH2COCH3
+(B)
+CH3COCH2CO2Et
+(C)
+CH3
+C
+CH3
+O
+(D)
+CH3
+C
+OH
+O
+Ans : (A)
+Hint :  
+CH3
+C
+CH
+O
+C
+CH 3
+O
+Ha
+CH 3 MgBr
+
+
+CH3
+C
+CH
+O
++
+MgBr
+C
+O
+CH3 +CH4
+CH3
+C
+CH2
+O
+C
+CH3
+O
+H
++
+42.
+Identify the ion having 4f6 electronic configuration.
+(A)
+Gd3+
+(B)
+Sm3+
+(C)
+Sm2+
+(D)
+Tb3+
+Ans : (C)
+Hint : 
+
+
+6
+2
+62Sm
+Xe 4f 6s
+
+
+
+2
+6
+0
+Sm
+xe 4f 6s
+
+
+
+43.
+Metallic conductors and semiconductors are heated separately. What are the changes with respect to conductivity?
+(A)
+increase, increase
+(B)
+decrease, decrease
+(C)
+increase, decrease
+(D)
+decrease, increase
+Ans : (D)
+Hint :  For Metallic Conductors, R  T  (R is the resistance)
+Hence conductivity decreases with increase of Temperature
+For semi-conductors, conductivity increases with rise of temperature due increase in number of electron-hole pairs.
+44.
+The equivalent weight of Na2S2O3(Gram molecular weight = M) in the given reaction is
+I2 + 2Na2S2O3 = 2 NaI  + Na2S4O6
+(A)
+M/2
+(B)
+M
+(C)
+2M
+(D)
+M/4
+Ans : (B)
+Hint :  
+2
+2.5
+2
+2
+2
+3
+2
+4
+6
+I
+2Na S O
+2Na
+Na S O
+
+
+
+
+
+n·f=2 × 0.5 = 1
+ Number of moles of electron lost per mole of Na2S2O3 = 1
+Hence equivalent weight of Na2S2O3 
+M
+M
+1
+
+
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(17)
+
+[Images on page: 0]
+
+
+========== PAGE 44 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(18)
+45.
+The reactivity order of the following molecules towards SN1 reaction is
+Allyl chloride
+Chlorobenzene
+Ethyl chloride
+(I)
+(II)
+(III)
+(A)
+I > II > III
+(B)
+I > III > II
+(C)
+II > I > III
+(D)
+III > I > II
+Ans : (B)
+Hint : Reactivity of SN1  stability of carbocation
+CH  = CH — CH  — Cl 
+2
+2
+r.d.s
+CH  = CH — CH  + Cl
+2
+2
+–
++
+(allyl chloride)
+CH  — CH = CH
+2
+2
+I
+(Resonance stabilized)
++
+Cl
+Bond order > 1 due to L.P. – conjugation.
+ 
+Hence no heterolytic cleavage. 
+(chlorobenzene)
+II
+CH  — CH  — Cl
+3
+2
+r.d.s
+CH  — CH  + Cl
+3
+2
+–
++
+III
+Therefore No S 1
+N
+(1°carbocation)
+         
+46.
+Toluene reacts with mixed acid at 25° C to produce
+(A)
+nearly equal amounts of o- and m- nitrotoluene
+(B)
+p nitrotoluene (only)
+(C)
+Predominantly o- nitrotoluene and p- nitrotoluene
+(D)
+2, 4, 6- trinitrotoluene (only)
+Ans : (C)
+Hint :  
+CH (o, p director)
+3
+HNO +H SO
+3
+2
+4
+25°C
+(Nitration)
+NO2
+CH3
++
+CH3
+NO2
++
+CH3
+NO2
+(~61.5%)
+(~37%)
+(~1.5%)
+
+[Images on page: 0]
+
+
+========== PAGE 45 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(19)
+47.
+PhCHO + CH CH  – C – O – C – CH CH
+3
+2
+2
+3 CH CH  – C – ONa
+3
+2
+O
+O
+O
+P
+(anhydrous)
+The product ‘P’ in the above reaction is
+(A)
+PhCH = CHCH2COOH
+(B)
+Ph – CH = C – COOH
+CH 3
+(C)
+Ph CH 
+OCOCH 3
+OCOCH3
+(D)
+Ph CH = CH – CH  – C – O – C – CH CH
+2
+2
+3
+O
+O
+Ans : (B)
+Hint :  
+C – H + CH  – CH  – C – O – C – CH  – CH
+3
+2
+2
+3
+
+
+O
+O
+O
+CH CH  – C – O  Na  (anhy.)
+3
+2
+–
++
+O
+
+(no
+H)
+ 
+   
+CH = C – C – O – H + CH  – CH  – C – OH
+3
+2
+CH3
+(Perkin’s condensation)
+O
+O
+48.
+The decreasing order of reactivity of the following alkenes towards HBr addition is
+CH3 – CH = CH2
+CF3 – CH = CH2
+MeOCH = CH2
+CH  – C – CH = CH
+3
+2
+O
+(I)
+(II)
+(III)
+(IV)
+(A)
+I>II>III>IV
+(B)
+II>IV>I>III
+(C)
+III>IV>I>II
+(D)
+III>I>II>IV
+Ans : (C)
+Hint :  Reactivity of HBr addition to Alkene  stability of carbocation
+  
+CH  – CH = CH  + H – Br
+3
+2
+CH3
+( )I
++–r.d.s
+CH2
+
+CH
++ Br
+–
+H
+(2°)
+(+ )I
+ 
+CF  – CH = CH  + H – Br
+3
+2
++
+–
+( )
+II
+r.d.s
+(strong – )I
+C
+F
+F
+F
+CH – CH  + Br
+2
+–
+(1°)
+H
+
+
+[Images on page: 0]
+
+
+========== PAGE 46 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(20)
+ 
+
++–r.d.s
+MeO – CH = CH  + H – Br
+2
+(
+)
+III
+••
+••
+MeO – CH – CH  + Br
+2
+–
+••
+••
+H
+MeO = CH – CH  + Br
+2
+–
++
+H
+(Resonance stablized
+  with complete octet)
+CH  = CH – C = O
+2
+(IV)
+CH 3
+••
+••
+(conjugated ketone)
+H – Br
++
+–
+    
+CH  – CH = C – OH
+2
+
+CH 3
+–
+Br
+CH  – CH = C – CH
+2
+3
+Br
+OH
+Tautomerization
+CH  – CH  – C – CH
+2
+2
+3
+Br
+(1,4-addition)
+O
+Thus stability order of carbocation
+III > IV > I > II
+49.
+Ozonolysis of o-xylene produces
+CH  – C – C – CH
+3
+3
+O
+O
+CH  – C – C – H
+3
+O
+O
+H – C – C – H
+O
+O
+I
+II
+III
+(A)
+I:III = 1:2
+(B)
+II:III = 2:1
+(C)
+I:II:III = 1:2:3
+(D)
+I:II:III = 3:2:1
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 47 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(21)
+Hint :  
+CH3
+CH3
+CH3
+CH3
+Ozonolysis
+Ozonolysis
+CH  – C – C – CH  + 2 H – C – C – H
+3
+3
+O
+O
+O
+O
+2CH  – C – C – H + H – C – C – H
+3
+O
+O
+O
+O
+I = 1,
+II = 2,
+III = 3
+ I : II : III = 1 : 2 : 3.
+50.
+The compounds A and B are respectively
+Me
+Me
+Me
+ 
+2
+4
+Br ,CCl
+A
+
+ 
+2
+3
+1.MgdryEt O
+2.dryice
+3.H O
+B
+
+
+(A)
+A = Br
+Br
+Br
+ ; B = HO C
+2
+CO H
+2
+CO H
+2
+(B)
+Me
+A =
+Br
+Me
+ ; 
+Me
+B =
+CO H
+2
+Me
+(C)
+Me
+Me
+Br
+Me
+A =
+ ; 
+Me
+Me
+B =
+CO H
+2
+Me
+(D)
+Me
+Me
+Br
+Me
+A =
+Br
+Br
+ ; 
+Me
+Me
+B =
+CO H
+2
+Me
+CO H
+2
+HO C
+2
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 48 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(22)
+Hint :  
+Me
+Me
+Me (o,p director)
+Br , CCl
+2
+4
+(Bromination)
+Me
+Me
+Me
+Br
+(A)
++
+Me
+Me
+MgBr
+–
+(Grignard Reagent)
+dry ice
+O = C = O
+Me
+Mg. dry ether
++
+–
+Me
+Me
+Me
+(B)
+C – OH
+O
+H O
+3
++ Me
+Me
+Me
+C – OMgBr
+O
+– +
+51.
+The compound that does not give positive test for nitrogen in Lassaigne’s test is
+(A)
+OH
+NO2
+(B)
+N Cl
+2
++
+–
+(C)
+NH2
+HO S
+3
+(D)
+NH2
+Cl
+Ans : (B)
+Hint :   Benzene diazonium chloride on heating produces N2 gas which escapes from the mixture.
+   So, NaCN is not formed in Lassaigne’s Test
+52.
+The correct acidity order of phenol (I), 4-hydroxybenzaldehyde (II) and 3-hydroxybenzaldehyde (III) is
+(A)
+I<II<III
+(B)
+I<III<II
+(C)
+II<III<I
+(D)
+III<II<I
+Ans : (B)
+Hint : 
+OH
+I
+OH
+I
+OH
+II
+CHO
+III
+pKa
+9.95
+7.61
+8.98
+CHO
+
+[Images on page: 0]
+
+
+========== PAGE 49 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(23)
+Acidic Strength
+II > III > I
+–CHO is electron withdrawing group which increases acidic strength of phenolic compound.
+Also withdrawing effect of –CHO is more through para position as compound to meta position.
+53.
+The major product of the following reaction is:
+I
+Cl 
+NaCN
+DMF
+
+(A)
+NC
+CN (B)
+Cl
+NC
+(C)
+I
+CN
+(D)
+I
+CN
+Ans : (C)
+Hint :  Halogen attached to benzene ring does not participate in SN2 reaction.
+   Here, Cl attached to bezylic carbon can only be substituted.
+  
+I
+(Double bond
+    characteristics)
+Cl NaCN
+DMF
+I
+CN
+(S 2)
+N
+54.
+Which of the following statements is correct for a spontaneous polymerization reaction ?
+(A)
+G < 0, H < 0, S < 0
+(B)
+G < 0, H > 0, S > 0
+(C)
+G > 0, H < 0, S > 0
+(D)
+G > 0, H > 0, S > 0
+Ans : (A)
+Hint :  nA  An
+  During spontaneous polymerisation reaction number of particles decreases, hence entropy decreases.
+  Being spontaneous G of the reaction is less than zero.
+  G = H – TS
+ To make the G negative, H must be negative i.e. less than zero.
+55.
+At 25°C, the ionic product of water is 10–14. The free energy change for the self-ionization of water in kCal mol–1 is close
+to
+(A)
+20.5
+(B)
+14.0
+(C)
+19.1
+(D)
+25.3
+Ans : (C)
+Hint : 
+
+
+
+
+
+2
+H O
+H
+aq
+OH
+aq
+
+
+
+
+K = 10–14
+   G° = –2.303 RT logK
+         = –2.303 × 1.987 × 298 log10–14
+               = 2.303 × 1.987 × 298 × 14
+       = 19091 Cal
+      19.1 KCal
+56.
+Consider an electron moving in the first Bohr orbit of a He+ ion with a velocity 1. If it is allowed to move in the third Bohr
+orbit with a velocity 3, then indicate the correct 3 : 1 ratio
+(A)
+3:1
+(B)
+2:1
+(C)
+1:3
+(D)
+1:2
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 50 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(24)
+Hint :  
+0
+z
+n
+
+   For 1st orbit of He+
+1
+0
+2
+1
+
+     For 3rd orbit of He+
+3
+0
+2
+3
+
+   3 : 1 = 1 : 3
+57.
+The compressibility factor for a van der Waal gas at high pressure is
+(A)
+RT
+1
+Pb
+
+(B)
+Pb
+1
+RT
+
+(C)
+Pb
+1
+RT
+
+(D)
+1
+Ans : (B)
+Hint :  For 1 mol van der Waal’s gas
+  
+
+
+2
+a
+P
+v
+b
+RT
+V
+
+
+
+
+
+
+
+
+
+  At high pressure 
+2
+a
+P
+P
+V
+
+
+   P(V – b) = RT
+   PV – Pb = RT
+   PV = RT + Pb
+  
+PV
+RT
+Pb
+z
+RT
+RT
+RT
+
+
+
+  
+Pb
+z
+1
+RT
+
+
+58.
+For a spontaneous process, the incorrect statement is
+(A)
+(Gsystem)T, P > 0
+(B)
+(Ssystem) + (Ssurroundings) > 0
+(C)
+(Gsystem)T, P < 0
+(D)
+(Usystem)S, V < 0
+Ans : (A)
+Hint :  For spontaneous process
+  * (Gsystem)P, T < 0
+   Suniverse = Ssystem + Ssurrounding > 0
+  * (Usystem)S, V < 0
+59.
+Identify the incorrect statement among the following:
+(A)
+Viscosity of liquid always decreases with increase in temperature
+(B)
+Surface tension of liquid always decreases with increase in temperature
+(C)
+Viscosity of liquid always increases in presence of impurity
+(D)
+Surface tension of liquid always increases in presence of impurity
+Ans : (C, D)
+Hint :  Both options C and D are incorrect, as Viscosity and Surface Tension may increase or decrease upon addition
+of impurities.
+
+[Images on page: 0]
+
+
+========== PAGE 51 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(25)
+60.
+Which of the following statements is true about equilibrium constant and rate constant of a single step chemical
+reaction?
+(A)
+Equilibrium constant may increase or decrease but rate constant always increases with temperature
+(B)
+Both equilibrium constant and rate constant increase with temperature
+(C)
+Rate constant may increase or decrease but equilibrium constant always increases with temperature
+(D)
+Both equilibrium constant and rate constant decrease with temperature
+Ans : (A)
+Hint :  According to Van’t Hoff equation
+2
+1
+1
+2
+k
+H
+1
+1
+log k
+2.303R T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Where k1 and k2 are Equilibrium Constants at T1 and T2 temperature respectively.
+When H > 0 (Endothermic process)
+then Equilibrium Constant increases with increase in temperature
+When H < 0 (Exothermic process)
+then Equilibrium Constant decreases with increases in temperature.
+According to Arrhenius equation
+a
+2
+1
+1
+2
+E
+k
+1
+1
+log k
+2.303R T
+T
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+where k1 and k2 are Rate Constants at T1 and T2 temperature respectively.
+Ea (Activation energy) > 0
+When temperature increases rate constant will increase
+61.
+ After the emission of a -particle followed by an -particle from 214
+83 Bi , the number of neurons in the atom is
+(A)
+210
+(B)
+128
+(C) 129
+(D)
+ 82
+Ans : (B)
+Hint :   Bi
+214
+83
+
+Po
+214
+84
+
+Pb
+210
+82
+No. of neutrons = Mass No. (A) – Atomic No. (Z) = 210 – 82 = 128
+62.
+ Which hydrogen like species will have the same radius as that of 1st Bohr orbit of hydrogen atom?
+(A)
+n = 2, Li2+
+(B)
+n = 2, Be3+
+(C)
+n = 2, He+
+(D)
+n = 3, Li2+
+Ans : (B)
+Hint :  Radius of nth orbit = 0.529 
+2
+n
+Z Å
+Radius of 1st Bohr Orbit of Hydrogen atom = 
+21
+0.529
+0.529
+1
+
+
+Å
+Radius of 2nd Bohr Orbit of Be3+ = 0.529 
+2
+2
+4 =0.529 Å
+63.
+For a first order reaction with rate constant k, the slope of the plot of log (reactant concentration) against time is
+(A)
+k/2.303
+(B)
+k
+(C)
+–k/2.303
+(D)
+–k
+Ans : (C)
+
+[Images on page: 0]
+
+
+========== PAGE 52 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(26)
+Hint :  
+
+t
+0
+k
+log[A]
+t
+log A
+2.303
+y
+mx
+C
+
+
+
+
+
+
+
+
+
+ (Arrhenius Equation)
+log [A]
+t
+Slope = 
+k
+2.303
+
+64.
+Equal volumes of aqueous solution of 0.1(M) HCl and 0.2 (M) H2SO4 are mixed. The concentration of H+ ions in the
+resulting solution is
+(A)
+0.15 (M)
+(B)
+0.30 (M)
+(C)
+0.10 (M)
+(D)
+ 0.25 (M)
+Ans : (D)
+Hint :  Concentration of H+ in molarity 
+Total no.of moleof H
+Totalvolumeof solution(in L)
+
+
+M
+V(inL) Basicity
+V
+
+
+
+
+= V
+0.1 1
+V
+0.2
+2
+V
+V
+
+
+
+
+
+= 0.5
+0.25
+2 
+ M
+65.
+The correct order of boiling point of the given aqueous solution is
+(A)
+1 N KNO3 > 1 N NaCl > 1 N CH3COOH
+(B)
+1 N KNO3 = 1 N NaCl > 1 N CH3COOH
+                                > 1 N sucrose
+                                > 1 N sucrose
+(C)
+Same for all
+(D)
+1 N KNO3 = 1 N NaCl = 1 N CH3COOH
+                                                                            > 1 N sucrose
+Ans : (B)
+Hint : Elevation in boiling point  No. of solute particles
+KNO3 (strong electrolyte); KNO3(aq)  
+
+
+aq
+K 
+ + 
+3(aq)
+NO
+NaCl (Strong electrolyte); NaCl (aq)  
+(aq)
+(aq)
+Na
+Cl
+
+
+
+CH3COOH (Weak electrolyte);  
+3
+(aq)
+3
+(aq)
+(aq)
+CH COOH
+CH COO
+H
+
+
+
+Sucrose (Non-electrolyte)
+66.
+ Correct solubility order of AgF, AgCl, AgBr, AgI in water is
+(A)
+AgF < AgCl > AgBr > AgI
+(B)
+AgI < AgBr < AgCl < AgF
+(C)
+AgF < AgI < AgBr < AgCl
+(D)
+AgCl > AgBr > AgF > AgI
+Ans : (B)
+Hint :  AgF is soluble in water. The others are sparingly soluble and solubility decreases from chloride to iodide.
+
+[Images on page: 0]
+
+
+========== PAGE 53 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(27)
+67.
+What will be the change in acidity if
+(i)
+CuSO4 is added in saturated (NH4)2SO4 solution
+(ii)
+SbF5 is added in anhydrous HF
+(A)
+increase, increase
+(B)
+decrease, decrease
+(C)
+increase, decrease
+(D)
+decrease, increase
+Ans : (A)
+Hint :  i) Cu2+
+(aq) + 4NH4
++
+(aq)  [Cu(NH3)4]+2 + 4H+ (aq)
+Formation of stable [Cu(NH3)4]+2 complex increases H+ ion concentration, thus acidity increases
+ii) HF + HF 
+H2F+ + F–
+SbF5 removes F– as SbF6
+– and shifts equilibrium forward to increase H2F+
+68.
+ Which of the following contains maximum number of lone pairs on the central atom?
+(A)
+ClO3
+–
+(B)
+XeF4
+(C)
+SF4
+(D)
+I3
+–
+Ans : (D)
+Hint :  a) 
+Cl
+O
+O
+–
+O
+b)
+F
+F
+F
+F
+Xe
+c)
+S
+F
+F
+F
+F
+d)
+I
+I
+I
+–
+I3
+– has highest, i.e, 3 lone Pairs on central atom.
+69.
+Number of moles of ions produced by complete dissociation of one mole of Mohr’s salt in water is
+(A)
+3
+(B)
+4
+(C)
+5
+(D)
+6
+Ans : (C)
+Hint :  Mohr’s salt FeSO4. (NH4)2SO4.6H2O
+2
+2
+4
+4
+2
+4
+2
+4
+4
+FeSO .(NH ) SO .6H O
+Fe
+2NH
+2SO
+
+
+
+
+
+
+
+5 ions produced on dissociation
+70.
+ Which of the following species exhibits both LMCT and paramagnetism?
+(A)
+MnO4
+2–
+(B)
+MnO4
+–
+(C)
+Cr2O7
+2–
+(D)
+CrO4
+2–
+Ans : (A)
+Hint :  MnO4
+–2 ion exhibits colour due to charge transfer from O2– ion to Mn+6 (LMCT) and also exhibits paramagnetism
+as it has 3d1 configuration (one unpaired electron)
+Category 2 (Q71 to Q 75)
+(Carry 2 marks each. Only one option is correct. Negative marks :– ½)
+71.
+How many P–O–P linkages are there in P4O10
+(A)
+Six
+(B)
+Four
+(C)
+Five
+(D)
+One
+Ans : (A)
+
+[Images on page: 0]
+
+
+========== PAGE 54 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(28)
+Hint :   
+72.
+ Me3CCH2CH2OH
+Q
+Me3CCH = CH2 
+R
+ Me3C – CH – CH3
+OH
+. Q and R in the above reaction sequences are
+respectively
+(A)
+Hg(OAc)2, NaBH4/ OH; B2H6,H2O2/ OH
+(B)
+B2H6, H2O2/ OH; H+/H2O
+(C)
+Hg(OAc)2, NaBH4/ OH ; H+/H2O
+(D)
+B2H6, H2O2/ OH ; Hg(OAc)2, NaBH4/ OH
+Ans : (D)
+Hint :  Me CCH CH OH
+3
+2
+2
+Me CCH=CH
+3
+2
+Me CCH–CH
+3
+3
+OH
+H O /OH
+2
+2
+B H ,
+2
+6
+Hg(OAC) ,
+2
+NaBH /OH
+4
+(Hydroboration - Oxidation) 
+(Oxymercuration - Demercuration)  
+73.
+pH of 10–8 (M) HCI solution is
+(A)
+8
+(B)
+greater than 7, less than 8
+(C)
+greater than 8
+(D)
+greater than 6, less than 7
+Ans : (D)
+Hint : For 10–8(M) HCI solution, the solution being very dilute, H+ ion conc. is not significant as compared to H+ ion
+furnished from H2O.
+thus, H+
+total = H+
+HCI + H+
+H2O
+= 10–8 + 10–7 (approx)
+= 1.1×10–7 (approx)
+pH = –log (1.1×10–7)
+=
+7 – log(1.1) = 6.96 (approx)
+
+Value of pH is greater than 6, less than 7.
+74.
+ The specific conductance (k) of 0.02 (M) aqueous acetic acid solution at 298K is 1.65×10–4 S cm–1. The degree of
+dissociation of acetic acid is [°H+ = 349.1 S cm2 mol–1 and °CH3COO– = 40.9 S cm2 mol–1]
+(A)
+0.021
+(B)
+0.21
+(C)
+0.012
+(D)
+0.12
+Ans : (A)
+Hint :  Firstly we find m (aq CH3COOH)
+m = 
+K 1000
+C(M)
+
+  =  
+4
+1.65 10
+1000
+0.02
+
+
+
+  = 8.25 Scm2mol–1
+
+[Images on page: 1]
+
+
+========== PAGE 55 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(29)
+m (CH3COOH at infinite dilution) = 
+
+
+
+
+m
+m
+3
+H
+CH COO
+
+
+
+
+
+
+Now degree of dissociation
+
+
+
+m
+3
+m
+3
+CH COOH at 0.02 M
+CH COOH at infinite dilution
+
+
+
+
+
+
+8.25
+349.1
+40.9
+
+
+= 0.021
+75.
+ The number(s) of –OH group(s) present in H3PO3 and H3PO4 is/are
+(A)
+3 and 3 respectively
+(B)
+3 and 4 respectively
+(C)
+2 and 3 respectively
+(D)
+1 and 3 respectively
+Ans : (C)
+Hint :  
+P
+OH
+O
+H
+HO
+P
+OH
+O
+OH
+HO
+Phosphorus acid
+Orthophosphoric acid
+2 OH groups
+3 OH groups
+Category 3 (Q76 to Q80)
+(Carry 2 marks each. One or more options are correct. No negative marks)
+76.
+ Which of the following statements about the SN2 reaction mechanism is/are true ?
+(A)
+The rate of reaction increases with increasing nucleophilicity.
+(B)
+The number 2 denotes a second order reaction
+(C)
+Tertiary butyI substrates do not follow this mechanism
+(D)
+The optical rotation of substrates always changes from (+) to (–) or from (–) to (+) in the products
+Ans : (A, C)
+Hint :  SN2 reaction rate depends upon the nucleophilicity of the attacking nueleophile. Here the 2 in the notation
+stands for Bimolecularity. Tert-butyl substrate fails in SN2 due to crowding. Optical rotation does not change
+necessarily from (+) to (–) or (–) to (+), as the product is not necessarily an isomer of reactant.
+77.
+ Which of the following represent(s) the enantiomer of Y ?
+Br
+H
+CH3
+C
+H
+C
+H
+CH3
+(Y)
+(A)
+H
+H C
+3
+Br
+C
+H
+C
+H
+CH3
+(B)
+Br
+H C
+3
+H
+C
+C
+H
+CH3
+H
+(C)
+Br
+H
+C
+C
+H
+CH3
+CH3
+H
+(D)
+Br
+H C
+3
+H
+C
+C
+H
+H
+H C
+3
+Ans : (B,C)
+
+[Images on page: 0]
+
+
+========== PAGE 56 ==========
+WBJEE - 2024 (Answers & Hint)
+Physics & Chemistry
+Aakash Educational Services Limited - Corp. Office: Aakash Tower, 8, Pusa Road, New Delhi-110005, Ph.: 011-47623456
+(30)
+Hint : The configuration of the stereocentre in Y is ‘R’, while that of A, B and C are respectively R, S and S.
+In option -D the configuration around the double bond is cis, so it can not be an enantiomer of Y.
+78.
+ Identify the correct statements(s) :
+(A)
+The oxidation number of Cr in CrO5 is + 6
+(B)
+H > U  for the reaction N2O4(g)  2 NO2(g), provided both gases behave ideally
+(C)
+pH of 0.1 (N) H2SO4 is less than that of 0.1 (N) HCI at 25°C
+(D)
+RT
+F
+
+
+
+
+
+= 0.0591 volt at 25°C
+Ans : (A,B)
+Hint :  A :   
+Cr
+O
+O
+O
+O
+O
+     oxidation number of Cr is +6
+  B :    N2O4(g)  2 NO2(g)
+ ng = 2–1=1
+and from H = U + ngRT ;  H > U
+C : For 0.1N HCI, pH is  1
+NH2SO4 = 0.1    (H+) = 0.1N   NHCI = 0.1    (H+) = 0.1N
+Since both contains same concentration of H+ ion, hence have same pH
+D : 
+2.303 RT
+F
+ = 0.0591 at 25°C
+ 79.  Which of the following ion/ions is/are diamagnetic ?
+(A)
+[CoF6]3–
+(B)
+[Co(NH3]6]3+
+(C)
+[Fe(OH2)6]2+
+(D)
+[Fe(CN)6]4–
+Ans : (B,D)
+Hint :  Co3+ is a d6 ion. With strong field ligand like NH3 , [Co(NH3)6]3+ has no unpaired electron. For Co3+,  F– is a weak
+field ligand.
+Fe2+ is a d6 ion. With strong field ligand CN–, [Fe(CN)6]4– has no unpaired electron. For Fe2+, H2O is a weak field ligand.
+80.
+ Which of the following statement/statements is/are correct ?
+(A)
+Solid I2 is freely soluble in water
+(B)
+Solid I2 is freely soluble in water but only in presence of excess KI
+(C)
+Solid I2 is freely soluble in CCI4
+(D)
+Solid I2 is freely soluble in hot water
+Ans : (B,C)
+Hint : I2 dissolves in aqueous KI to form KI3.
+I2 also dissolves in CCI4 as both are non polar compounds.
+
+
+[Images on page: 0]
