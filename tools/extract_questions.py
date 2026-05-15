@@ -19,7 +19,7 @@ from PIL import Image
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 PDF_PATH = r"c:\Users\vinit\Desktop\TesJEE\QuestionPaper\WBJEE-2024 Mathematics, Phy & Chem Q+Sol (Dt 28-04-24).pdf"
-APP_DIR = r"c:\Users\vinit\Desktop\TesJEE\app"
+APP_DIR = r"c:\Users\vinit\Desktop\TesJEE\docs"
 IMG_DIR = os.path.join(APP_DIR, "questions", "2024")
 DATA_DIR = os.path.join(APP_DIR, "data")
 DPI = 200
@@ -136,6 +136,74 @@ def parse_answer(text):
     return seen
 
 
+def visible_bbox_in_range(page, y_min, y_max):
+    """
+    Compute the union bounding box of all visible content (text spans + vector
+    drawings) whose vertical midpoint lies inside [y_min, y_max].
+
+    This is more accurate than relying on text-line bboxes alone, because math
+    glyphs like integrals, fraction numerators, lim subscripts, super/subscripts,
+    and vector-drawn fraction bars all have bboxes that extend above/below the
+    main text line. Using the union of these per-span bboxes captures them all
+    while staying inside the logical question region.
+
+    Returns (x0, y0, x1, y1) or None if nothing found.
+    """
+    items = []
+    d = page.get_text("dict")
+    for blk in d.get("blocks", []):
+        if blk.get("type") != 0:
+            continue
+        for line in blk.get("lines", []):
+            for span in line.get("spans", []):
+                bbox = span.get("bbox")
+                if not bbox:
+                    continue
+                mid_y = (bbox[1] + bbox[3]) / 2.0
+                if y_min <= mid_y <= y_max:
+                    items.append(bbox)
+    try:
+        drawings = page.get_drawings()
+    except Exception:
+        drawings = []
+    for dr in drawings:
+        rect = dr.get("rect")
+        if rect is None:
+            continue
+        try:
+            b = (rect.x0, rect.y0, rect.x1, rect.y1)
+        except AttributeError:
+            b = tuple(rect)
+        mid_y = (b[1] + b[3]) / 2.0
+        if y_min <= mid_y <= y_max:
+            items.append(b)
+    if not items:
+        return None
+    x0 = min(b[0] for b in items)
+    y0 = min(b[1] for b in items)
+    x1 = max(b[2] for b in items)
+    y1 = max(b[3] for b in items)
+    return (x0, y0, x1, y1)
+
+
+def visual_top_for_question(page, q_start_y, q_end_y):
+    """
+    Find the top y-coordinate of all visible content belonging to a question on
+    a given page. We search a slightly wider zone (q_start_y - lookback) so we
+    catch math glyphs whose bbox top extends above the question-number line,
+    but still inside the inter-question gap. Returns the effective top y.
+    """
+    LOOKBACK = 18  # PDF points, safely under the inter-question gap
+    PAD_TOP = 4
+    PAD_BOT = 4
+    y_min = max(0.0, q_start_y - LOOKBACK)
+    y_max = q_end_y
+    bbox = visible_bbox_in_range(page, y_min, y_max)
+    if bbox is None:
+        return (max(0.0, q_start_y - 2), q_end_y)
+    return (max(0.0, bbox[1] - PAD_TOP), min(q_end_y, bbox[3] + PAD_BOT))
+
+
 def crop_question(q_num, q_start, q_end, out_path, label):
     """
     Crop region between q_start (page, y0) and q_end (page, y0).
@@ -144,19 +212,21 @@ def crop_question(q_num, q_start, q_end, out_path, label):
     parts = []
     p1 = q_start['page']
     p2 = q_end['page']
-    y_start = q_start['y0'] - 2  # tiny margin above the number
-    y_end = q_end['y0'] - ANS_MARGIN
 
     if p1 == p2:
         page = doc[p1]
-        rect = fitz.Rect(0, max(0, y_start), page.rect.width, y_end)
+        y_search_bot = q_end['y0'] - ANS_MARGIN
+        y_top, y_bot = visual_top_for_question(page, q_start['y0'], y_search_bot)
+        rect = fitz.Rect(0, max(0, y_top), page.rect.width, y_bot)
         pix = page.get_pixmap(clip=rect, matrix=fitz.Matrix(ZOOM, ZOOM), alpha=False)
-        img = Image.open(io.BytesIO(pix.tobytes("png")))
-        parts.append(img)
+        parts.append(Image.open(io.BytesIO(pix.tobytes("png"))))
     else:
-        # Part 1: from q_start.y to bottom of p1
+        # Part 1: from visual top of question down to bottom of p1
         page1 = doc[p1]
-        rect1 = fitz.Rect(0, max(0, y_start), page1.rect.width,
+        y_top, _ = visual_top_for_question(
+            page1, q_start['y0'], page1.rect.height - FOOTER_CUTOFF_Y
+        )
+        rect1 = fitz.Rect(0, max(0, y_top), page1.rect.width,
                           page1.rect.height - FOOTER_CUTOFF_Y)
         pix1 = page1.get_pixmap(clip=rect1, matrix=fitz.Matrix(ZOOM, ZOOM), alpha=False)
         parts.append(Image.open(io.BytesIO(pix1.tobytes("png"))))
@@ -169,9 +239,11 @@ def crop_question(q_num, q_start, q_end, out_path, label):
             pixm = pmid.get_pixmap(clip=rectm, matrix=fitz.Matrix(ZOOM, ZOOM), alpha=False)
             parts.append(Image.open(io.BytesIO(pixm.tobytes("png"))))
 
-        # Part 2: from header_cutoff of p2 down to q_end.y
+        # Part 2: from header_cutoff of p2 down to visual bottom (just above ans)
         page2 = doc[p2]
-        rect2 = fitz.Rect(0, HEADER_CUTOFF_Y, page2.rect.width, y_end)
+        y_search_bot = q_end['y0'] - ANS_MARGIN
+        _, y_bot = visual_top_for_question(page2, HEADER_CUTOFF_Y, y_search_bot)
+        rect2 = fitz.Rect(0, HEADER_CUTOFF_Y, page2.rect.width, y_bot)
         pix2 = page2.get_pixmap(clip=rect2, matrix=fitz.Matrix(ZOOM, ZOOM), alpha=False)
         parts.append(Image.open(io.BytesIO(pix2.tobytes("png"))))
 
