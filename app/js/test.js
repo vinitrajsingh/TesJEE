@@ -32,8 +32,8 @@
     buildPalette();
     bindActions();
     startTimer();
-    renderCurrent();
-    persist();
+    // Mark current question as visited (becomes 'not-answered' if it was untouched)
+    setCurrent(attempt.current_q);
   }
 
   function paletteSections() {
