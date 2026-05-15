@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Instructions — TesJEE</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="exam-header">
+    <div class="brand">TesJEE <small id="paper-tag">Instructions</small></div>
+    <div class="header-right">
+      <span class="subject-tag" id="paper-name">Loading...</span>
+    </div>
+  </header>
+
+  <main class="instructions-wrap">
+    <h1 id="page-title">Instructions</h1>
+    <p class="muted" id="page-sub">Please read carefully before starting the test.</p>
+
+    <h2>General Instructions</h2>
+    <ol>
+      <li>Total duration of this paper is <b>2 hours (120 minutes)</b>.</li>
+      <li>The clock will start as soon as you click <b>Start Test</b> and will display the remaining time.</li>
+      <li>The test will auto-submit when the timer reaches zero.</li>
+      <li>You can navigate between questions using the question palette on the right.</li>
+      <li>Your progress is saved automatically. If you close the tab or lose internet, you can return to this page and resume.</li>
+      <li>Right-click and developer tools are accessible; this is a practice test, but please simulate exam conditions.</li>
+    </ol>
+
+    <h2 id="cat-heading">Category-wise Marking Scheme</h2>
+    <table class="cat-table" id="cat-table">
+      <!-- populated by JS -->
+    </table>
+
+    <h2>Question Palette &mdash; Legend</h2>
+    <div class="legend-row">
+      <div class="legend-item"><span class="legend-swatch" style="background:#c8ced6"></span>Not Visited</div>
+      <div class="legend-item"><span class="legend-swatch" style="background:#c62828"></span>Not Answered</div>
+      <div class="legend-item"><span class="legend-swatch" style="background:#2e7d32"></span>Answered</div>
+      <div class="legend-item"><span class="legend-swatch" style="background:#6a1b9a"></span>Marked for Review</div>
+      <div class="legend-item">
+        <span class="legend-swatch" style="background:#6a1b9a;position:relative">
+          <span style="position:absolute;width:7px;height:7px;background:#2e7d32;border-radius:50%;bottom:3px;right:3px;border:1px solid #fff;display:block"></span>
+        </span>
+        Marked &amp; Answered
+      </div>
+    </div>
+
+    <h2>Important Notes</h2>
+    <ul>
+      <li>For <b>Category 1</b> and <b>Category 2</b> questions, only one option is correct.</li>
+      <li>For <b>Category 3</b> questions, one or more options may be correct. You earn marks only if all selected options are correct. Partial selection of correct options gets partial marks. <b>No negative marking</b> in Category 3.</li>
+      <li>Submitting Paper 1 does not automatically show your score. You will be asked whether you want to proceed to Paper 2 first or view your Paper 1 result.</li>
+    </ul>
+
+    <div class="agree-row">
+      <label>
+        <input type="checkbox" id="agree" />
+        I have read all the instructions above.
+      </label>
+      <div>
+        <button class="btn-secondary" onclick="location.href='index.html'">Cancel</button>
+        <button class="btn-primary" id="start-btn" disabled>Start Test</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="js/common.js"></script>
+  <script src="js/instructions.js"></script>
+</body>
+</html>

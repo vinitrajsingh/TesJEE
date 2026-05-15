@@ -1,0 +1,11 @@
+{
+  "name": "TesJEE — WBJEE Practice",
+  "short_name": "TesJEE",
+  "description": "Previous-year WBJEE mock test platform with offline support.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f3f6",
+  "theme_color": "#143d8c",
+  "orientation": "portrait-primary",
+  "icons": []
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Test — TesJEE</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="exam-header">
+    <div class="brand">TesJEE <small id="paper-tag"></small></div>
+    <div class="header-right">
+      <span class="subject-tag" id="paper-name"></span>
+      <span class="timer" id="timer">--:--:--</span>
+    </div>
+  </header>
+
+  <div class="test-shell">
+    <section class="q-pane">
+      <div class="q-toolbar">
+        <div class="q-meta">
+          <span class="q-num" id="q-num">Question 1</span>
+          <span class="q-sub" id="q-sub">Mathematics</span>
+          <span class="q-cat" id="q-cat">Category 1</span>
+        </div>
+        <div class="q-marking" id="q-marking">+1 / −0.25</div>
+      </div>
+
+      <div class="q-body">
+        <div class="q-image-wrap">
+          <img id="q-image" src="" alt="" />
+        </div>
+
+        <div class="q-multi-note hidden" id="multi-note">
+          <b>Category 3 — Multiple Correct.</b> Select all options you think are correct. You get +2 if all correct chosen with no wrong; partial selection (only correct ones) gives partial marks. Any wrong selection ⇒ 0. No negative marking.
+        </div>
+
+        <div class="options-list" id="options-list"></div>
+      </div>
+
+      <div class="q-actions">
+        <div class="left">
+          <button class="btn-secondary" id="btn-mark">Mark for Review &amp; Next</button>
+          <button class="btn-danger" id="btn-clear">Clear Response</button>
+        </div>
+        <div class="right">
+          <button class="btn-secondary" id="btn-prev">Previous</button>
+          <button class="btn-primary" id="btn-save-next">Save &amp; Next</button>
+        </div>
+      </div>
+    </section>
+
+    <aside class="palette-pane">
+      <div class="palette-header">Question Palette</div>
+      <div class="palette-section" id="palette-sections">
+        <!-- palette injected by JS -->
+      </div>
+
+      <div class="palette-legend">
+        <div class="legend-item"><span class="legend-swatch" style="background:#c8ced6"></span>Not Visited</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#c62828"></span>Not Answered</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#2e7d32"></span>Answered</div>
+        <div class="legend-item"><span class="legend-swatch" style="background:#6a1b9a"></span>Marked for Review</div>
+        <div class="legend-item">
+          <span class="legend-swatch" style="background:#6a1b9a;position:relative">
+            <span style="position:absolute;width:7px;height:7px;background:#2e7d32;border-radius:50%;bottom:3px;right:3px;border:1px solid #fff"></span>
+          </span>
+          Marked &amp; Answered
+        </div>
+      </div>
+
+      <div class="palette-footer">
+        <button id="btn-submit">Submit Test</button>
+      </div>
+    </aside>
+  </div>
+
+  <!-- Submit confirmation modal -->
+  <div class="modal-backdrop hidden" id="submit-modal">
+    <div class="modal">
+      <div class="modal-header">Submit Test?</div>
+      <div class="modal-body" id="submit-summary"></div>
+      <div class="modal-actions">
+        <button class="btn-secondary" id="submit-cancel">Cancel</button>
+        <button class="btn-primary" id="submit-confirm">Yes, Submit</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Post-submit (after paper 1) modal -->
+  <div class="modal-backdrop hidden" id="post-submit-modal">
+    <div class="modal">
+      <div class="modal-header warn">Paper 1 Submitted</div>
+      <div class="modal-body">
+        <p><b>Recommended:</b> Attempt Paper 2 (Physics + Chemistry) before viewing your Paper 1 result, so your performance in Paper 2 isn't influenced.</p>
+        <p>You can still choose to view your Paper 1 result now.</p>
+      </div>
+      <div class="modal-actions">
+        <button class="btn-secondary" id="post-view">View P1 Result</button>
+        <button class="btn-primary" id="post-continue">Continue to Paper 2</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Time up -->
+  <div class="modal-backdrop hidden" id="timeup-modal">
+    <div class="modal">
+      <div class="modal-header warn">Time Up</div>
+      <div class="modal-body">Your time is over. The test will be submitted automatically.</div>
+      <div class="modal-actions">
+        <button class="btn-primary" id="timeup-ok">OK</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/scoring.js"></script>
+  <script src="js/test.js"></script>
+</body>
+</html>
