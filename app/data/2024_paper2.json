@@ -1,0 +1,1920 @@
+{
+  "year": 2024,
+  "paper": 2,
+  "paper_title": "Physics & Chemistry",
+  "duration_minutes": 120,
+  "total_questions": 80,
+  "total_marks": 100,
+  "category_rules_physics": {
+    "1": {
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "type": "single",
+      "range": [
+        1,
+        30
+      ]
+    },
+    "2": {
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "type": "single",
+      "range": [
+        31,
+        35
+      ]
+    },
+    "3": {
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "type": "multi",
+      "range": [
+        36,
+        40
+      ]
+    }
+  },
+  "category_rules_chemistry": {
+    "1": {
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "type": "single",
+      "range": [
+        41,
+        70
+      ]
+    },
+    "2": {
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "type": "single",
+      "range": [
+        71,
+        75
+      ]
+    },
+    "3": {
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "type": "multi",
+      "range": [
+        76,
+        80
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q1.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        226
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q2.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        182
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q3.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        453
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q4.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        187
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q5.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        297
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q6.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        166
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q7.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        293
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q8.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q9.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        399
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q10.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        194
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q11.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        188
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q12.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        345
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q13.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        314
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q14.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        144
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q15.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        120
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q16.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        411
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q17.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        692
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q18.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        186
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q19.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        1005
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q20.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        764
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q21.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        516
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q22.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        480
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q23.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        627
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q24.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        422
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q25.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        820
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q26.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        321
+      ]
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q27.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        450
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q28.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        226
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q29.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        165
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "subject": "Physics",
+      "category": 1,
+      "image": "questions/2024/physics_q30.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        450
+      ]
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "subject": "Physics",
+      "category": 2,
+      "image": "questions/2024/physics_q31.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        153
+      ]
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "subject": "Physics",
+      "category": 2,
+      "image": "questions/2024/physics_q32.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        271
+      ]
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "subject": "Physics",
+      "category": 2,
+      "image": "questions/2024/physics_q33.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        419
+      ]
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "subject": "Physics",
+      "category": 2,
+      "image": "questions/2024/physics_q34.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "subject": "Physics",
+      "category": 2,
+      "image": "questions/2024/physics_q35.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        321
+      ]
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "subject": "Physics",
+      "category": 3,
+      "image": "questions/2024/physics_q36.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        152
+      ]
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "subject": "Physics",
+      "category": 3,
+      "image": "questions/2024/physics_q37.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        379
+      ]
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "subject": "Physics",
+      "category": 3,
+      "image": "questions/2024/physics_q38.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "B",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        641
+      ]
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "subject": "Physics",
+      "category": 3,
+      "image": "questions/2024/physics_q39.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        493
+      ]
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "subject": "Physics",
+      "category": 3,
+      "image": "questions/2024/physics_q40.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        378
+      ]
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q41.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        298
+      ]
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q42.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q43.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q44.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        123
+      ]
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q45.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        147
+      ]
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q46.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        221
+      ]
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q47.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        517
+      ]
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q48.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        239
+      ]
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q49.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        289
+      ]
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q50.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        1097
+      ]
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q51.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        362
+      ]
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q52.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        87
+      ]
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q53.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        347
+      ]
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q54.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q55.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q56.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q57.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        142
+      ]
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q58.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q59.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C",
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        221
+      ]
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q60.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        255
+      ]
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q61.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        93
+      ]
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q62.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        85
+      ]
+    },
+    {
+      "id": "q63",
+      "number": 63,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q63.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q64",
+      "number": 64,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q64.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q65",
+      "number": 65,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q65.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        221
+      ]
+    },
+    {
+      "id": "q66",
+      "number": 66,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q66.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q67",
+      "number": 67,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q67.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        177
+      ]
+    },
+    {
+      "id": "q68",
+      "number": 68,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q68.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q69",
+      "number": 69,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q69.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q70",
+      "number": 70,
+      "subject": "Chemistry",
+      "category": 1,
+      "image": "questions/2024/chemistry_q70.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        87
+      ]
+    },
+    {
+      "id": "q71",
+      "number": 71,
+      "subject": "Chemistry",
+      "category": 2,
+      "image": "questions/2024/chemistry_q71.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        120
+      ]
+    },
+    {
+      "id": "q72",
+      "number": 72,
+      "subject": "Chemistry",
+      "category": 2,
+      "image": "questions/2024/chemistry_q72.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        236
+      ]
+    },
+    {
+      "id": "q73",
+      "number": 73,
+      "subject": "Chemistry",
+      "category": 2,
+      "image": "questions/2024/chemistry_q73.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q74",
+      "number": 74,
+      "subject": "Chemistry",
+      "category": 2,
+      "image": "questions/2024/chemistry_q74.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        120
+      ]
+    },
+    {
+      "id": "q75",
+      "number": 75,
+      "subject": "Chemistry",
+      "category": 2,
+      "image": "questions/2024/chemistry_q75.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        109
+      ]
+    },
+    {
+      "id": "q76",
+      "number": 76,
+      "subject": "Chemistry",
+      "category": 3,
+      "image": "questions/2024/chemistry_q76.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        194
+      ]
+    },
+    {
+      "id": "q77",
+      "number": 77,
+      "subject": "Chemistry",
+      "category": 3,
+      "image": "questions/2024/chemistry_q77.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        621
+      ]
+    },
+    {
+      "id": "q78",
+      "number": 78,
+      "subject": "Chemistry",
+      "category": 3,
+      "image": "questions/2024/chemistry_q78.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        299
+      ]
+    },
+    {
+      "id": "q79",
+      "number": 79,
+      "subject": "Chemistry",
+      "category": 3,
+      "image": "questions/2024/chemistry_q79.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        94
+      ]
+    },
+    {
+      "id": "q80",
+      "number": 80,
+      "subject": "Chemistry",
+      "category": 3,
+      "image": "questions/2024/chemistry_q80.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        242
+      ]
+    }
+  ]
+}

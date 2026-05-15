@@ -1,0 +1,1774 @@
+{
+  "year": 2024,
+  "paper": 1,
+  "paper_title": "Mathematics",
+  "duration_minutes": 120,
+  "total_questions": 75,
+  "total_marks": 100,
+  "category_rules": {
+    "1": {
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "type": "single",
+      "range": [
+        1,
+        50
+      ]
+    },
+    "2": {
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "type": "single",
+      "range": [
+        51,
+        65
+      ]
+    },
+    "3": {
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "type": "multi",
+      "range": [
+        66,
+        75
+      ]
+    }
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q1.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        144
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q2.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        128
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q3.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        189
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q4.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        200
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q5.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        257
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q6.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        191
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q7.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q8.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        144
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q9.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        310
+      ]
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q10.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        141
+      ]
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q11.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        125
+      ]
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q12.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        189
+      ]
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q13.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        114
+      ]
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q14.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        215
+      ]
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q15.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        140
+      ]
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q16.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        165
+      ]
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q17.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        135
+      ]
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q18.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        161
+      ]
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q19.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        221
+      ]
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q20.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        215
+      ]
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q21.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        145
+      ]
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q22.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        85
+      ]
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q23.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q24.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        142
+      ]
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q25.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q26.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        216
+      ]
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q27.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q28.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q29.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q30.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        85
+      ]
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q31.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q32.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        185
+      ]
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q33.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        109
+      ]
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q34.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        146
+      ]
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q35.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        141
+      ]
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q36.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        181
+      ]
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q37.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        176
+      ]
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q38.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        184
+      ]
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q39.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        155
+      ]
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q40.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        120
+      ]
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q41.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        176
+      ]
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q42.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        143
+      ]
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q43.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        232
+      ]
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q44.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        184
+      ]
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q45.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        110
+      ]
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q46.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        120
+      ]
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q47.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        104
+      ]
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q48.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        166
+      ]
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q49.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        135
+      ]
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "subject": "Mathematics",
+      "category": 1,
+      "image": "questions/2024/mathematics_q50.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 1,
+      "marks_wrong": -0.25,
+      "img_size": [
+        1653,
+        102
+      ]
+    },
+    {
+      "id": "q51",
+      "number": 51,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q51.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        176
+      ]
+    },
+    {
+      "id": "q52",
+      "number": 52,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q52.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        165
+      ]
+    },
+    {
+      "id": "q53",
+      "number": 53,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q53.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        131
+      ]
+    },
+    {
+      "id": "q54",
+      "number": 54,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q54.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        325
+      ]
+    },
+    {
+      "id": "q55",
+      "number": 55,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q55.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        235
+      ]
+    },
+    {
+      "id": "q56",
+      "number": 56,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q56.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        161
+      ]
+    },
+    {
+      "id": "q57",
+      "number": 57,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q57.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        111
+      ]
+    },
+    {
+      "id": "q58",
+      "number": 58,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q58.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        308
+      ]
+    },
+    {
+      "id": "q59",
+      "number": 59,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q59.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        86
+      ]
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q60.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        103
+      ]
+    },
+    {
+      "id": "q61",
+      "number": 61,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q61.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        166
+      ]
+    },
+    {
+      "id": "q62",
+      "number": 62,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q62.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        164
+      ]
+    },
+    {
+      "id": "q63",
+      "number": 63,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q63.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        150
+      ]
+    },
+    {
+      "id": "q64",
+      "number": 64,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q64.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q65",
+      "number": 65,
+      "subject": "Mathematics",
+      "category": 2,
+      "image": "questions/2024/mathematics_q65.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B"
+      ],
+      "multi_correct": false,
+      "marks_correct": 2,
+      "marks_wrong": -0.5,
+      "img_size": [
+        1653,
+        119
+      ]
+    },
+    {
+      "id": "q66",
+      "number": 66,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q66.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        167
+      ]
+    },
+    {
+      "id": "q67",
+      "number": 67,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q67.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "B"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        136
+      ]
+    },
+    {
+      "id": "q68",
+      "number": 68,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q68.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        257
+      ]
+    },
+    {
+      "id": "q69",
+      "number": 69,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q69.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        127
+      ]
+    },
+    {
+      "id": "q70",
+      "number": 70,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q70.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        85
+      ]
+    },
+    {
+      "id": "q71",
+      "number": 71,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q71.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        96
+      ]
+    },
+    {
+      "id": "q72",
+      "number": 72,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q72.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        90
+      ]
+    },
+    {
+      "id": "q73",
+      "number": 73,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q73.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "B",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        271
+      ]
+    },
+    {
+      "id": "q74",
+      "number": 74,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q74.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "C",
+        "D"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        184
+      ]
+    },
+    {
+      "id": "q75",
+      "number": 75,
+      "subject": "Mathematics",
+      "category": 3,
+      "image": "questions/2024/mathematics_q75.png",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": [
+        "A",
+        "C"
+      ],
+      "multi_correct": true,
+      "marks_correct": 2,
+      "marks_wrong": 0,
+      "img_size": [
+        1653,
+        295
+      ]
+    }
+  ]
+}
